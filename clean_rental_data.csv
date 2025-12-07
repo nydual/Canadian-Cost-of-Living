@@ -1,862 +1,862 @@
-Province,City,Year,Quarter,1_Bedroom_Rent
-British Columbia,Abbotsford - Mission,2020,1,1120.0
-British Columbia,Abbotsford - Mission,2020,2,1120.0
-British Columbia,Abbotsford - Mission,2020,3,1120.0
-British Columbia,Abbotsford - Mission,2020,4,1190.0
-British Columbia,Abbotsford - Mission,2021,1,1200.0
-British Columbia,Abbotsford - Mission,2021,2,1250.0
-British Columbia,Abbotsford - Mission,2021,3,1250.0
-British Columbia,Abbotsford - Mission,2021,4,1350.0
-British Columbia,Abbotsford - Mission,2022,1,1360.0
-British Columbia,Abbotsford - Mission,2022,2,1400.0
-British Columbia,Abbotsford - Mission,2022,3,1460.0
-British Columbia,Abbotsford - Mission,2022,4,1480.0
-British Columbia,Abbotsford - Mission,2023,1,1520.0
-British Columbia,Abbotsford - Mission,2023,2,1590.0
-British Columbia,Abbotsford - Mission,2023,3,1670.0
-British Columbia,Abbotsford - Mission,2023,4,1750.0
-British Columbia,Abbotsford - Mission,2024,1,1720.0
-British Columbia,Abbotsford - Mission,2024,2,1680.0
-British Columbia,Abbotsford - Mission,2024,3,1690.0
-British Columbia,Abbotsford - Mission,2024,4,1640.0
-British Columbia,Abbotsford - Mission,2025,1,1650.0
-Ontario,Barrie,2020,1,1340.0
-Ontario,Barrie,2020,2,1400.0
-Ontario,Barrie,2020,3,1400.0
-Ontario,Barrie,2020,4,1440.0
-Ontario,Barrie,2021,1,1560.0
-Ontario,Barrie,2021,2,1660.0
-Ontario,Barrie,2021,3,1550.0
-Ontario,Barrie,2021,4,1560.0
-Ontario,Barrie,2022,1,1570.0
-Ontario,Barrie,2022,2,1760.0
-Ontario,Barrie,2022,3,1740.0
-Ontario,Barrie,2022,4,1750.0
-Ontario,Barrie,2023,1,1710.0
-Ontario,Barrie,2023,2,1750.0
-Ontario,Barrie,2023,3,1740.0
-Ontario,Barrie,2023,4,1920.0
-Ontario,Barrie,2024,1,1840.0
-Ontario,Barrie,2024,2,1740.0
-Ontario,Barrie,2024,3,1780.0
-Ontario,Barrie,2024,4,1810.0
-Ontario,Barrie,2025,1,1800.0
-Ontario,Belleville - Quinte West,2020,1,1150.0
-Ontario,Belleville - Quinte West,2020,2,1160.0
-Ontario,Belleville - Quinte West,2020,3,1140.0
-Ontario,Belleville - Quinte West,2020,4,1170.0
-Ontario,Belleville - Quinte West,2021,1,1220.0
-Ontario,Belleville - Quinte West,2021,2,1300.0
-Ontario,Belleville - Quinte West,2021,3,1250.0
-Ontario,Belleville - Quinte West,2021,4,1370.0
-Ontario,Belleville - Quinte West,2022,1,1390.0
-Ontario,Belleville - Quinte West,2022,2,1430.0
-Ontario,Belleville - Quinte West,2022,3,1500.0
-Ontario,Belleville - Quinte West,2022,4,1450.0
-Ontario,Belleville - Quinte West,2023,1,1550.0
-Ontario,Belleville - Quinte West,2023,2,1500.0
-Ontario,Belleville - Quinte West,2023,3,1500.0
-Ontario,Belleville - Quinte West,2023,4,1510.0
-Ontario,Belleville - Quinte West,2024,1,1600.0
-Ontario,Belleville - Quinte West,2024,2,1580.0
-Ontario,Belleville - Quinte West,2024,3,1630.0
-Ontario,Belleville - Quinte West,2024,4,1640.0
-Ontario,Belleville - Quinte West,2025,1,1560.0
-Ontario,Brantford,2020,1,1190.0
-Ontario,Brantford,2020,2,1220.0
-Ontario,Brantford,2020,3,1210.0
-Ontario,Brantford,2020,4,1250.0
-Ontario,Brantford,2021,1,1290.0
-Ontario,Brantford,2021,2,1320.0
-Ontario,Brantford,2021,3,1400.0
-Ontario,Brantford,2021,4,1400.0
-Ontario,Brantford,2022,1,1430.0
-Ontario,Brantford,2022,2,1420.0
-Ontario,Brantford,2022,3,1540.0
-Ontario,Brantford,2022,4,1530.0
-Ontario,Brantford,2023,1,1570.0
-Ontario,Brantford,2023,2,1570.0
-Ontario,Brantford,2023,3,1610.0
-Ontario,Brantford,2023,4,1640.0
-Ontario,Brantford,2024,1,1620.0
-Ontario,Brantford,2024,2,1620.0
-Ontario,Brantford,2024,3,1680.0
-Ontario,Brantford,2024,4,1690.0
-Ontario,Brantford,2025,1,1650.0
-Alberta,Calgary,2020,1,1180.0
-Alberta,Calgary,2020,2,1190.0
-Alberta,Calgary,2020,3,1190.0
-Alberta,Calgary,2020,4,1170.0
-Alberta,Calgary,2021,1,1180.0
-Alberta,Calgary,2021,2,1200.0
-Alberta,Calgary,2021,3,1210.0
-Alberta,Calgary,2021,4,1220.0
-Alberta,Calgary,2022,1,1250.0
-Alberta,Calgary,2022,2,1290.0
-Alberta,Calgary,2022,3,1370.0
-Alberta,Calgary,2022,4,1440.0
-Alberta,Calgary,2023,1,1500.0
-Alberta,Calgary,2023,2,1520.0
-Alberta,Calgary,2023,3,1660.0
-Alberta,Calgary,2023,4,1770.0
-Alberta,Calgary,2024,1,1740.0
-Alberta,Calgary,2024,2,1760.0
-Alberta,Calgary,2024,3,1720.0
-Alberta,Calgary,2024,4,1630.0
-Alberta,Calgary,2025,1,1630.0
-British Columbia,Chilliwack,2020,1,1000.0
-British Columbia,Chilliwack,2020,2,1090.0
-British Columbia,Chilliwack,2020,3,1090.0
-British Columbia,Chilliwack,2020,4,1130.0
-British Columbia,Chilliwack,2021,1,1160.0
-British Columbia,Chilliwack,2021,2,1210.0
-British Columbia,Chilliwack,2021,3,1220.0
-British Columbia,Chilliwack,2021,4,1250.0
-British Columbia,Chilliwack,2022,1,1340.0
-British Columbia,Chilliwack,2022,2,1400.0
-British Columbia,Chilliwack,2022,3,1390.0
-British Columbia,Chilliwack,2022,4,1430.0
-British Columbia,Chilliwack,2023,1,1460.0
-British Columbia,Chilliwack,2023,2,1490.0
-British Columbia,Chilliwack,2023,3,1520.0
-British Columbia,Chilliwack,2023,4,1520.0
-British Columbia,Chilliwack,2024,1,1460.0
-British Columbia,Chilliwack,2024,2,1470.0
-British Columbia,Chilliwack,2024,3,1480.0
-British Columbia,Chilliwack,2024,4,1450.0
-British Columbia,Chilliwack,2025,1,1490.0
-Quebec,Drummondville,2020,1,
-Quebec,Drummondville,2020,2,
-Quebec,Drummondville,2020,3,
-Quebec,Drummondville,2020,4,
-Quebec,Drummondville,2021,1,
-Quebec,Drummondville,2021,2,
-Quebec,Drummondville,2021,3,
-Quebec,Drummondville,2021,4,
-Quebec,Drummondville,2022,1,
-Quebec,Drummondville,2022,2,
-Quebec,Drummondville,2022,3,
-Quebec,Drummondville,2022,4,
-Quebec,Drummondville,2023,1,
-Quebec,Drummondville,2023,2,
-Quebec,Drummondville,2023,3,
-Quebec,Drummondville,2023,4,
-Quebec,Drummondville,2024,1,
-Quebec,Drummondville,2024,2,
-Quebec,Drummondville,2024,3,
-Quebec,Drummondville,2024,4,
-Quebec,Drummondville,2025,1,
-Alberta,Edmonton,2020,1,1050.0
-Alberta,Edmonton,2020,2,1050.0
-Alberta,Edmonton,2020,3,1070.0
-Alberta,Edmonton,2020,4,1040.0
-Alberta,Edmonton,2021,1,1050.0
-Alberta,Edmonton,2021,2,1060.0
-Alberta,Edmonton,2021,3,1060.0
-Alberta,Edmonton,2021,4,1040.0
-Alberta,Edmonton,2022,1,1050.0
-Alberta,Edmonton,2022,2,1060.0
-Alberta,Edmonton,2022,3,1080.0
-Alberta,Edmonton,2022,4,1100.0
-Alberta,Edmonton,2023,1,1110.0
-Alberta,Edmonton,2023,2,1140.0
-Alberta,Edmonton,2023,3,1170.0
-Alberta,Edmonton,2023,4,1240.0
-Alberta,Edmonton,2024,1,1270.0
-Alberta,Edmonton,2024,2,1290.0
-Alberta,Edmonton,2024,3,1320.0
-Alberta,Edmonton,2024,4,1280.0
-Alberta,Edmonton,2025,1,1280.0
-New Brunswick,Fredericton,2020,1,930.0
-New Brunswick,Fredericton,2020,2,860.0
-New Brunswick,Fredericton,2020,3,910.0
-New Brunswick,Fredericton,2020,4,940.0
-New Brunswick,Fredericton,2021,1,960.0
-New Brunswick,Fredericton,2021,2,970.0
-New Brunswick,Fredericton,2021,3,970.0
-New Brunswick,Fredericton,2021,4,1020.0
-New Brunswick,Fredericton,2022,1,1070.0
-New Brunswick,Fredericton,2022,2,1110.0
-New Brunswick,Fredericton,2022,3,1120.0
-New Brunswick,Fredericton,2022,4,1130.0
-New Brunswick,Fredericton,2023,1,1160.0
-New Brunswick,Fredericton,2023,2,1110.0
-New Brunswick,Fredericton,2023,3,1180.0
-New Brunswick,Fredericton,2023,4,1240.0
-New Brunswick,Fredericton,2024,1,1330.0
-New Brunswick,Fredericton,2024,2,1260.0
-New Brunswick,Fredericton,2024,3,1280.0
-New Brunswick,Fredericton,2024,4,1390.0
-New Brunswick,Fredericton,2025,1,1320.0
-Ontario,Greater Sudbury,2020,1,940.0
-Ontario,Greater Sudbury,2020,2,970.0
-Ontario,Greater Sudbury,2020,3,990.0
-Ontario,Greater Sudbury,2020,4,1060.0
-Ontario,Greater Sudbury,2021,1,1050.0
-Ontario,Greater Sudbury,2021,2,1070.0
-Ontario,Greater Sudbury,2021,3,1150.0
-Ontario,Greater Sudbury,2021,4,1190.0
-Ontario,Greater Sudbury,2022,1,1190.0
-Ontario,Greater Sudbury,2022,2,1190.0
-Ontario,Greater Sudbury,2022,3,1220.0
-Ontario,Greater Sudbury,2022,4,1270.0
-Ontario,Greater Sudbury,2023,1,1300.0
-Ontario,Greater Sudbury,2023,2,1280.0
-Ontario,Greater Sudbury,2023,3,1370.0
-Ontario,Greater Sudbury,2023,4,1390.0
-Ontario,Greater Sudbury,2024,1,1410.0
-Ontario,Greater Sudbury,2024,2,1380.0
-Ontario,Greater Sudbury,2024,3,1460.0
-Ontario,Greater Sudbury,2024,4,1530.0
-Ontario,Greater Sudbury,2025,1,1540.0
-Ontario,Guelph,2020,1,1380.0
-Ontario,Guelph,2020,2,1370.0
-Ontario,Guelph,2020,3,1390.0
-Ontario,Guelph,2020,4,1420.0
-Ontario,Guelph,2021,1,1420.0
-Ontario,Guelph,2021,2,1490.0
-Ontario,Guelph,2021,3,1540.0
-Ontario,Guelph,2021,4,1610.0
-Ontario,Guelph,2022,1,1600.0
-Ontario,Guelph,2022,2,1650.0
-Ontario,Guelph,2022,3,1730.0
-Ontario,Guelph,2022,4,1840.0
-Ontario,Guelph,2023,1,1940.0
-Ontario,Guelph,2023,2,1960.0
-Ontario,Guelph,2023,3,1990.0
-Ontario,Guelph,2023,4,2040.0
-Ontario,Guelph,2024,1,2020.0
-Ontario,Guelph,2024,2,2040.0
-Ontario,Guelph,2024,3,2010.0
-Ontario,Guelph,2024,4,2000.0
-Ontario,Guelph,2025,1,1910.0
-Nova Scotia,Halifax,2020,1,1230.0
-Nova Scotia,Halifax,2020,2,1230.0
-Nova Scotia,Halifax,2020,3,1280.0
-Nova Scotia,Halifax,2020,4,1250.0
-Nova Scotia,Halifax,2021,1,1280.0
-Nova Scotia,Halifax,2021,2,1320.0
-Nova Scotia,Halifax,2021,3,1330.0
-Nova Scotia,Halifax,2021,4,1360.0
-Nova Scotia,Halifax,2022,1,1430.0
-Nova Scotia,Halifax,2022,2,1450.0
-Nova Scotia,Halifax,2022,3,1520.0
-Nova Scotia,Halifax,2022,4,1650.0
-Nova Scotia,Halifax,2023,1,1700.0
-Nova Scotia,Halifax,2023,2,1790.0
-Nova Scotia,Halifax,2023,3,1780.0
-Nova Scotia,Halifax,2023,4,1800.0
-Nova Scotia,Halifax,2024,1,1840.0
-Nova Scotia,Halifax,2024,2,1840.0
-Nova Scotia,Halifax,2024,3,1880.0
-Nova Scotia,Halifax,2024,4,1780.0
-Nova Scotia,Halifax,2025,1,1770.0
-Ontario,Hamilton,2020,1,1440.0
-Ontario,Hamilton,2020,2,1470.0
-Ontario,Hamilton,2020,3,1490.0
-Ontario,Hamilton,2020,4,1480.0
-Ontario,Hamilton,2021,1,1490.0
-Ontario,Hamilton,2021,2,1490.0
-Ontario,Hamilton,2021,3,1510.0
-Ontario,Hamilton,2021,4,1550.0
-Ontario,Hamilton,2022,1,1570.0
-Ontario,Hamilton,2022,2,1650.0
-Ontario,Hamilton,2022,3,1700.0
-Ontario,Hamilton,2022,4,1750.0
-Ontario,Hamilton,2023,1,1770.0
-Ontario,Hamilton,2023,2,1790.0
-Ontario,Hamilton,2023,3,1790.0
-Ontario,Hamilton,2023,4,1840.0
-Ontario,Hamilton,2024,1,1820.0
-Ontario,Hamilton,2024,2,1820.0
-Ontario,Hamilton,2024,3,1850.0
-Ontario,Hamilton,2024,4,1790.0
-Ontario,Hamilton,2025,1,1800.0
-British Columbia,Kamloops,2020,1,1090.0
-British Columbia,Kamloops,2020,2,1110.0
-British Columbia,Kamloops,2020,3,1110.0
-British Columbia,Kamloops,2020,4,1160.0
-British Columbia,Kamloops,2021,1,1200.0
-British Columbia,Kamloops,2021,2,1250.0
-British Columbia,Kamloops,2021,3,1290.0
-British Columbia,Kamloops,2021,4,1360.0
-British Columbia,Kamloops,2022,1,1340.0
-British Columbia,Kamloops,2022,2,1410.0
-British Columbia,Kamloops,2022,3,1400.0
-British Columbia,Kamloops,2022,4,1420.0
-British Columbia,Kamloops,2023,1,1470.0
-British Columbia,Kamloops,2023,2,1490.0
-British Columbia,Kamloops,2023,3,1540.0
-British Columbia,Kamloops,2023,4,1510.0
-British Columbia,Kamloops,2024,1,1470.0
-British Columbia,Kamloops,2024,2,1540.0
-British Columbia,Kamloops,2024,3,1550.0
-British Columbia,Kamloops,2024,4,1550.0
-British Columbia,Kamloops,2025,1,1550.0
-British Columbia,Kelowna,2020,1,1380.0
-British Columbia,Kelowna,2020,2,1430.0
-British Columbia,Kelowna,2020,3,1470.0
-British Columbia,Kelowna,2020,4,1470.0
-British Columbia,Kelowna,2021,1,1560.0
-British Columbia,Kelowna,2021,2,1640.0
-British Columbia,Kelowna,2021,3,1670.0
-British Columbia,Kelowna,2021,4,1700.0
-British Columbia,Kelowna,2022,1,1650.0
-British Columbia,Kelowna,2022,2,1770.0
-British Columbia,Kelowna,2022,3,1900.0
-British Columbia,Kelowna,2022,4,1920.0
-British Columbia,Kelowna,2023,1,1920.0
-British Columbia,Kelowna,2023,2,1730.0
-British Columbia,Kelowna,2023,3,1890.0
-British Columbia,Kelowna,2023,4,1960.0
-British Columbia,Kelowna,2024,1,1920.0
-British Columbia,Kelowna,2024,2,2010.0
-British Columbia,Kelowna,2024,3,1910.0
-British Columbia,Kelowna,2024,4,1860.0
-British Columbia,Kelowna,2025,1,1740.0
-Ontario,Kingston,2020,1,1280.0
-Ontario,Kingston,2020,2,1280.0
-Ontario,Kingston,2020,3,1280.0
-Ontario,Kingston,2020,4,1280.0
-Ontario,Kingston,2021,1,1310.0
-Ontario,Kingston,2021,2,1360.0
-Ontario,Kingston,2021,3,1370.0
-Ontario,Kingston,2021,4,1420.0
-Ontario,Kingston,2022,1,1460.0
-Ontario,Kingston,2022,2,1520.0
-Ontario,Kingston,2022,3,1570.0
-Ontario,Kingston,2022,4,1620.0
-Ontario,Kingston,2023,1,1630.0
-Ontario,Kingston,2023,2,1630.0
-Ontario,Kingston,2023,3,1690.0
-Ontario,Kingston,2023,4,1710.0
-Ontario,Kingston,2024,1,1700.0
-Ontario,Kingston,2024,2,1780.0
-Ontario,Kingston,2024,3,1780.0
-Ontario,Kingston,2024,4,1730.0
-Ontario,Kingston,2025,1,1710.0
-Ontario,Kitchener - Cambridge - Waterloo,2020,1,1370.0
-Ontario,Kitchener - Cambridge - Waterloo,2020,2,1410.0
-Ontario,Kitchener - Cambridge - Waterloo,2020,3,1420.0
-Ontario,Kitchener - Cambridge - Waterloo,2020,4,1430.0
-Ontario,Kitchener - Cambridge - Waterloo,2021,1,1440.0
-Ontario,Kitchener - Cambridge - Waterloo,2021,2,1510.0
-Ontario,Kitchener - Cambridge - Waterloo,2021,3,1520.0
-Ontario,Kitchener - Cambridge - Waterloo,2021,4,1560.0
-Ontario,Kitchener - Cambridge - Waterloo,2022,1,1590.0
-Ontario,Kitchener - Cambridge - Waterloo,2022,2,1630.0
-Ontario,Kitchener - Cambridge - Waterloo,2022,3,1740.0
-Ontario,Kitchener - Cambridge - Waterloo,2022,4,1870.0
-Ontario,Kitchener - Cambridge - Waterloo,2023,1,1860.0
-Ontario,Kitchener - Cambridge - Waterloo,2023,2,1820.0
-Ontario,Kitchener - Cambridge - Waterloo,2023,3,1880.0
-Ontario,Kitchener - Cambridge - Waterloo,2023,4,1910.0
-Ontario,Kitchener - Cambridge - Waterloo,2024,1,1890.0
-Ontario,Kitchener - Cambridge - Waterloo,2024,2,1880.0
-Ontario,Kitchener - Cambridge - Waterloo,2024,3,1880.0
-Ontario,Kitchener - Cambridge - Waterloo,2024,4,1850.0
-Ontario,Kitchener - Cambridge - Waterloo,2025,1,1810.0
-Alberta,Lethbridge,2020,1,890.0
-Alberta,Lethbridge,2020,2,920.0
-Alberta,Lethbridge,2020,3,900.0
-Alberta,Lethbridge,2020,4,910.0
-Alberta,Lethbridge,2021,1,890.0
-Alberta,Lethbridge,2021,2,920.0
-Alberta,Lethbridge,2021,3,930.0
-Alberta,Lethbridge,2021,4,940.0
-Alberta,Lethbridge,2022,1,960.0
-Alberta,Lethbridge,2022,2,980.0
-Alberta,Lethbridge,2022,3,990.0
-Alberta,Lethbridge,2022,4,1070.0
-Alberta,Lethbridge,2023,1,1080.0
-Alberta,Lethbridge,2023,2,1070.0
-Alberta,Lethbridge,2023,3,1120.0
-Alberta,Lethbridge,2023,4,1120.0
-Alberta,Lethbridge,2024,1,1140.0
-Alberta,Lethbridge,2024,2,1170.0
-Alberta,Lethbridge,2024,3,1280.0
-Alberta,Lethbridge,2024,4,1240.0
-Alberta,Lethbridge,2025,1,1260.0
-Ontario,London,2020,1,1160.0
-Ontario,London,2020,2,1170.0
-Ontario,London,2020,3,1180.0
-Ontario,London,2020,4,1200.0
-Ontario,London,2021,1,1220.0
-Ontario,London,2021,2,1240.0
-Ontario,London,2021,3,1260.0
-Ontario,London,2021,4,1300.0
-Ontario,London,2022,1,1360.0
-Ontario,London,2022,2,1400.0
-Ontario,London,2022,3,1470.0
-Ontario,London,2022,4,1490.0
-Ontario,London,2023,1,1570.0
-Ontario,London,2023,2,1560.0
-Ontario,London,2023,3,1570.0
-Ontario,London,2023,4,1620.0
-Ontario,London,2024,1,1640.0
-Ontario,London,2024,2,1650.0
-Ontario,London,2024,3,1640.0
-Ontario,London,2024,4,1640.0
-Ontario,London,2025,1,1640.0
-New Brunswick,Moncton,2020,1,810.0
-New Brunswick,Moncton,2020,2,840.0
-New Brunswick,Moncton,2020,3,840.0
-New Brunswick,Moncton,2020,4,840.0
-New Brunswick,Moncton,2021,1,890.0
-New Brunswick,Moncton,2021,2,940.0
-New Brunswick,Moncton,2021,3,960.0
-New Brunswick,Moncton,2021,4,1020.0
-New Brunswick,Moncton,2022,1,1000.0
-New Brunswick,Moncton,2022,2,1030.0
-New Brunswick,Moncton,2022,3,1080.0
-New Brunswick,Moncton,2022,4,1100.0
-New Brunswick,Moncton,2023,1,1150.0
-New Brunswick,Moncton,2023,2,1140.0
-New Brunswick,Moncton,2023,3,1140.0
-New Brunswick,Moncton,2023,4,1220.0
-New Brunswick,Moncton,2024,1,1210.0
-New Brunswick,Moncton,2024,2,1220.0
-New Brunswick,Moncton,2024,3,1290.0
-New Brunswick,Moncton,2024,4,1310.0
-New Brunswick,Moncton,2025,1,1320.0
-Quebec,Montréal,2020,1,1110.0
-Quebec,Montréal,2020,2,1130.0
-Quebec,Montréal,2020,3,1170.0
-Quebec,Montréal,2020,4,1140.0
-Quebec,Montréal,2021,1,1140.0
-Quebec,Montréal,2021,2,1140.0
-Quebec,Montréal,2021,3,1170.0
-Quebec,Montréal,2021,4,1210.0
-Quebec,Montréal,2022,1,1220.0
-Quebec,Montréal,2022,2,1240.0
-Quebec,Montréal,2022,3,1330.0
-Quebec,Montréal,2022,4,1370.0
-Quebec,Montréal,2023,1,1410.0
-Quebec,Montréal,2023,2,1400.0
-Quebec,Montréal,2023,3,1480.0
-Quebec,Montréal,2023,4,1520.0
-Quebec,Montréal,2024,1,1540.0
-Quebec,Montréal,2024,2,1540.0
-Quebec,Montréal,2024,3,1570.0
-Quebec,Montréal,2024,4,1550.0
-Quebec,Montréal,2025,1,1540.0
-British Columbia,Nanaimo,2020,1,1150.0
-British Columbia,Nanaimo,2020,2,1140.0
-British Columbia,Nanaimo,2020,3,1150.0
-British Columbia,Nanaimo,2020,4,1190.0
-British Columbia,Nanaimo,2021,1,1250.0
-British Columbia,Nanaimo,2021,2,1310.0
-British Columbia,Nanaimo,2021,3,1340.0
-British Columbia,Nanaimo,2021,4,1410.0
-British Columbia,Nanaimo,2022,1,1400.0
-British Columbia,Nanaimo,2022,2,1530.0
-British Columbia,Nanaimo,2022,3,1600.0
-British Columbia,Nanaimo,2022,4,1530.0
-British Columbia,Nanaimo,2023,1,1610.0
-British Columbia,Nanaimo,2023,2,1590.0
-British Columbia,Nanaimo,2023,3,1670.0
-British Columbia,Nanaimo,2023,4,1710.0
-British Columbia,Nanaimo,2024,1,1690.0
-British Columbia,Nanaimo,2024,2,1680.0
-British Columbia,Nanaimo,2024,3,1680.0
-British Columbia,Nanaimo,2024,4,1650.0
-British Columbia,Nanaimo,2025,1,1670.0
-Ontario,Oshawa,2020,1,1320.0
-Ontario,Oshawa,2020,2,1330.0
-Ontario,Oshawa,2020,3,1320.0
-Ontario,Oshawa,2020,4,1340.0
-Ontario,Oshawa,2021,1,1340.0
-Ontario,Oshawa,2021,2,1420.0
-Ontario,Oshawa,2021,3,1420.0
-Ontario,Oshawa,2021,4,1460.0
-Ontario,Oshawa,2022,1,1520.0
-Ontario,Oshawa,2022,2,1540.0
-Ontario,Oshawa,2022,3,1610.0
-Ontario,Oshawa,2022,4,1630.0
-Ontario,Oshawa,2023,1,1710.0
-Ontario,Oshawa,2023,2,1750.0
-Ontario,Oshawa,2023,3,1760.0
-Ontario,Oshawa,2023,4,1770.0
-Ontario,Oshawa,2024,1,1740.0
-Ontario,Oshawa,2024,2,1770.0
-Ontario,Oshawa,2024,3,1800.0
-Ontario,Oshawa,2024,4,1750.0
-Ontario,Oshawa,2025,1,1720.0
-Ontario,Ottawa - Gatineau (Ontario part),2020,1,1560.0
-Ontario,Ottawa - Gatineau (Ontario part),2020,2,1550.0
-Ontario,Ottawa - Gatineau (Ontario part),2020,3,1530.0
-Ontario,Ottawa - Gatineau (Ontario part),2020,4,1500.0
-Ontario,Ottawa - Gatineau (Ontario part),2021,1,1510.0
-Ontario,Ottawa - Gatineau (Ontario part),2021,2,1550.0
-Ontario,Ottawa - Gatineau (Ontario part),2021,3,1560.0
-Ontario,Ottawa - Gatineau (Ontario part),2021,4,1570.0
-Ontario,Ottawa - Gatineau (Ontario part),2022,1,1610.0
-Ontario,Ottawa - Gatineau (Ontario part),2022,2,1640.0
-Ontario,Ottawa - Gatineau (Ontario part),2022,3,1740.0
-Ontario,Ottawa - Gatineau (Ontario part),2022,4,1760.0
-Ontario,Ottawa - Gatineau (Ontario part),2023,1,1770.0
-Ontario,Ottawa - Gatineau (Ontario part),2023,2,1810.0
-Ontario,Ottawa - Gatineau (Ontario part),2023,3,1800.0
-Ontario,Ottawa - Gatineau (Ontario part),2023,4,1870.0
-Ontario,Ottawa - Gatineau (Ontario part),2024,1,1890.0
-Ontario,Ottawa - Gatineau (Ontario part),2024,2,1960.0
-Ontario,Ottawa - Gatineau (Ontario part),2024,3,1960.0
-Ontario,Ottawa - Gatineau (Ontario part),2024,4,1970.0
-Ontario,Ottawa - Gatineau (Ontario part),2025,1,2010.0
-Quebec,Ottawa - Gatineau (Quebec part),2020,1,970.0
-Quebec,Ottawa - Gatineau (Quebec part),2020,2,990.0
-Quebec,Ottawa - Gatineau (Quebec part),2020,3,1050.0
-Quebec,Ottawa - Gatineau (Quebec part),2020,4,1010.0
-Quebec,Ottawa - Gatineau (Quebec part),2021,1,1020.0
-Quebec,Ottawa - Gatineau (Quebec part),2021,2,1060.0
-Quebec,Ottawa - Gatineau (Quebec part),2021,3,1170.0
-Quebec,Ottawa - Gatineau (Quebec part),2021,4,1210.0
-Quebec,Ottawa - Gatineau (Quebec part),2022,1,1220.0
-Quebec,Ottawa - Gatineau (Quebec part),2022,2,1200.0
-Quebec,Ottawa - Gatineau (Quebec part),2022,3,1360.0
-Quebec,Ottawa - Gatineau (Quebec part),2022,4,1370.0
-Quebec,Ottawa - Gatineau (Quebec part),2023,1,1390.0
-Quebec,Ottawa - Gatineau (Quebec part),2023,2,1370.0
-Quebec,Ottawa - Gatineau (Quebec part),2023,3,1430.0
-Quebec,Ottawa - Gatineau (Quebec part),2023,4,1490.0
-Quebec,Ottawa - Gatineau (Quebec part),2024,1,1530.0
-Quebec,Ottawa - Gatineau (Quebec part),2024,2,1510.0
-Quebec,Ottawa - Gatineau (Quebec part),2024,3,1520.0
-Quebec,Ottawa - Gatineau (Quebec part),2024,4,1580.0
-Quebec,Ottawa - Gatineau (Quebec part),2025,1,1520.0
-Ontario,Peterborough,2020,1,1150.0
-Ontario,Peterborough,2020,2,1180.0
-Ontario,Peterborough,2020,3,1180.0
-Ontario,Peterborough,2020,4,1180.0
-Ontario,Peterborough,2021,1,1300.0
-Ontario,Peterborough,2021,2,1310.0
-Ontario,Peterborough,2021,3,1330.0
-Ontario,Peterborough,2021,4,1340.0
-Ontario,Peterborough,2022,1,1350.0
-Ontario,Peterborough,2022,2,1460.0
-Ontario,Peterborough,2022,3,1510.0
-Ontario,Peterborough,2022,4,1510.0
-Ontario,Peterborough,2023,1,1540.0
-Ontario,Peterborough,2023,2,1570.0
-Ontario,Peterborough,2023,3,1550.0
-Ontario,Peterborough,2023,4,1590.0
-Ontario,Peterborough,2024,1,1610.0
-Ontario,Peterborough,2024,2,1630.0
-Ontario,Peterborough,2024,3,1630.0
-Ontario,Peterborough,2024,4,1590.0
-Ontario,Peterborough,2025,1,1600.0
-Quebec,Québec,2020,1,780.0
-Quebec,Québec,2020,2,830.0
-Quebec,Québec,2020,3,900.0
-Quebec,Québec,2020,4,890.0
-Quebec,Québec,2021,1,840.0
-Quebec,Québec,2021,2,920.0
-Quebec,Québec,2021,3,900.0
-Quebec,Québec,2021,4,960.0
-Quebec,Québec,2022,1,890.0
-Quebec,Québec,2022,2,920.0
-Quebec,Québec,2022,3,1000.0
-Quebec,Québec,2022,4,1060.0
-Quebec,Québec,2023,1,1030.0
-Quebec,Québec,2023,2,1100.0
-Quebec,Québec,2023,3,1200.0
-Quebec,Québec,2023,4,1260.0
-Quebec,Québec,2024,1,1190.0
-Quebec,Québec,2024,2,1220.0
-Quebec,Québec,2024,3,1220.0
-Quebec,Québec,2024,4,1280.0
-Quebec,Québec,2025,1,1210.0
-Alberta,Red Deer,2020,1,820.0
-Alberta,Red Deer,2020,2,830.0
-Alberta,Red Deer,2020,3,860.0
-Alberta,Red Deer,2020,4,860.0
-Alberta,Red Deer,2021,1,890.0
-Alberta,Red Deer,2021,2,860.0
-Alberta,Red Deer,2021,3,850.0
-Alberta,Red Deer,2021,4,840.0
-Alberta,Red Deer,2022,1,880.0
-Alberta,Red Deer,2022,2,900.0
-Alberta,Red Deer,2022,3,880.0
-Alberta,Red Deer,2022,4,950.0
-Alberta,Red Deer,2023,1,940.0
-Alberta,Red Deer,2023,2,990.0
-Alberta,Red Deer,2023,3,1030.0
-Alberta,Red Deer,2023,4,1200.0
-Alberta,Red Deer,2024,1,1120.0
-Alberta,Red Deer,2024,2,1230.0
-Alberta,Red Deer,2024,3,1180.0
-Alberta,Red Deer,2024,4,1210.0
-Alberta,Red Deer,2025,1,1180.0
-Saskatchewan,Regina,2020,1,930.0
-Saskatchewan,Regina,2020,2,920.0
-Saskatchewan,Regina,2020,3,930.0
-Saskatchewan,Regina,2020,4,910.0
-Saskatchewan,Regina,2021,1,930.0
-Saskatchewan,Regina,2021,2,930.0
-Saskatchewan,Regina,2021,3,930.0
-Saskatchewan,Regina,2021,4,920.0
-Saskatchewan,Regina,2022,1,940.0
-Saskatchewan,Regina,2022,2,950.0
-Saskatchewan,Regina,2022,3,970.0
-Saskatchewan,Regina,2022,4,1000.0
-Saskatchewan,Regina,2023,1,1060.0
-Saskatchewan,Regina,2023,2,1080.0
-Saskatchewan,Regina,2023,3,1080.0
-Saskatchewan,Regina,2023,4,1140.0
-Saskatchewan,Regina,2024,1,1120.0
-Saskatchewan,Regina,2024,2,1170.0
-Saskatchewan,Regina,2024,3,1220.0
-Saskatchewan,Regina,2024,4,1230.0
-Saskatchewan,Regina,2025,1,1230.0
-New Brunswick,Saint John,2020,1,820.0
-New Brunswick,Saint John,2020,2,830.0
-New Brunswick,Saint John,2020,3,830.0
-New Brunswick,Saint John,2020,4,820.0
-New Brunswick,Saint John,2021,1,860.0
-New Brunswick,Saint John,2021,2,860.0
-New Brunswick,Saint John,2021,3,870.0
-New Brunswick,Saint John,2021,4,870.0
-New Brunswick,Saint John,2022,1,910.0
-New Brunswick,Saint John,2022,2,960.0
-New Brunswick,Saint John,2022,3,1010.0
-New Brunswick,Saint John,2022,4,1010.0
-New Brunswick,Saint John,2023,1,1060.0
-New Brunswick,Saint John,2023,2,1090.0
-New Brunswick,Saint John,2023,3,1160.0
-New Brunswick,Saint John,2023,4,1170.0
-New Brunswick,Saint John,2024,1,1090.0
-New Brunswick,Saint John,2024,2,1110.0
-New Brunswick,Saint John,2024,3,1190.0
-New Brunswick,Saint John,2024,4,1230.0
-New Brunswick,Saint John,2025,1,1180.0
-Saskatchewan,Saskatoon,2020,1,950.0
-Saskatchewan,Saskatoon,2020,2,970.0
-Saskatchewan,Saskatoon,2020,3,950.0
-Saskatchewan,Saskatoon,2020,4,970.0
-Saskatchewan,Saskatoon,2021,1,1010.0
-Saskatchewan,Saskatoon,2021,2,990.0
-Saskatchewan,Saskatoon,2021,3,990.0
-Saskatchewan,Saskatoon,2021,4,990.0
-Saskatchewan,Saskatoon,2022,1,1020.0
-Saskatchewan,Saskatoon,2022,2,1000.0
-Saskatchewan,Saskatoon,2022,3,1050.0
-Saskatchewan,Saskatoon,2022,4,1070.0
-Saskatchewan,Saskatoon,2023,1,1160.0
-Saskatchewan,Saskatoon,2023,2,1150.0
-Saskatchewan,Saskatoon,2023,3,1120.0
-Saskatchewan,Saskatoon,2023,4,1150.0
-Saskatchewan,Saskatoon,2024,1,1210.0
-Saskatchewan,Saskatoon,2024,2,1230.0
-Saskatchewan,Saskatoon,2024,3,1270.0
-Saskatchewan,Saskatoon,2024,4,1280.0
-Saskatchewan,Saskatoon,2025,1,1270.0
-Quebec,Sherbrooke,2020,1,580.0
-Quebec,Sherbrooke,2020,2,590.0
-Quebec,Sherbrooke,2020,3,610.0
-Quebec,Sherbrooke,2020,4,680.0
-Quebec,Sherbrooke,2021,1,670.0
-Quebec,Sherbrooke,2021,2,730.0
-Quebec,Sherbrooke,2021,3,710.0
-Quebec,Sherbrooke,2021,4,800.0
-Quebec,Sherbrooke,2022,1,780.0
-Quebec,Sherbrooke,2022,2,830.0
-Quebec,Sherbrooke,2022,3,800.0
-Quebec,Sherbrooke,2022,4,890.0
-Quebec,Sherbrooke,2023,1,880.0
-Quebec,Sherbrooke,2023,2,960.0
-Quebec,Sherbrooke,2023,3,900.0
-Quebec,Sherbrooke,2023,4,960.0
-Quebec,Sherbrooke,2024,1,1020.0
-Quebec,Sherbrooke,2024,2,980.0
-Quebec,Sherbrooke,2024,3,1000.0
-Quebec,Sherbrooke,2024,4,1000.0
-Quebec,Sherbrooke,2025,1,1030.0
-Ontario,St. Catharines - Niagara,2020,1,1130.0
-Ontario,St. Catharines - Niagara,2020,2,1160.0
-Ontario,St. Catharines - Niagara,2020,3,1180.0
-Ontario,St. Catharines - Niagara,2020,4,1190.0
-Ontario,St. Catharines - Niagara,2021,1,1230.0
-Ontario,St. Catharines - Niagara,2021,2,1290.0
-Ontario,St. Catharines - Niagara,2021,3,1340.0
-Ontario,St. Catharines - Niagara,2021,4,1400.0
-Ontario,St. Catharines - Niagara,2022,1,1440.0
-Ontario,St. Catharines - Niagara,2022,2,1440.0
-Ontario,St. Catharines - Niagara,2022,3,1490.0
-Ontario,St. Catharines - Niagara,2022,4,1460.0
-Ontario,St. Catharines - Niagara,2023,1,1490.0
-Ontario,St. Catharines - Niagara,2023,2,1520.0
-Ontario,St. Catharines - Niagara,2023,3,1520.0
-Ontario,St. Catharines - Niagara,2023,4,1560.0
-Ontario,St. Catharines - Niagara,2024,1,1580.0
-Ontario,St. Catharines - Niagara,2024,2,1580.0
-Ontario,St. Catharines - Niagara,2024,3,1580.0
-Ontario,St. Catharines - Niagara,2024,4,1610.0
-Ontario,St. Catharines - Niagara,2025,1,1580.0
-Newfoundland and Labrador,St. John's,2020,1,810.0
-Newfoundland and Labrador,St. John's,2020,2,860.0
-Newfoundland and Labrador,St. John's,2020,3,860.0
-Newfoundland and Labrador,St. John's,2020,4,850.0
-Newfoundland and Labrador,St. John's,2021,1,870.0
-Newfoundland and Labrador,St. John's,2021,2,880.0
-Newfoundland and Labrador,St. John's,2021,3,910.0
-Newfoundland and Labrador,St. John's,2021,4,950.0
-Newfoundland and Labrador,St. John's,2022,1,940.0
-Newfoundland and Labrador,St. John's,2022,2,940.0
-Newfoundland and Labrador,St. John's,2022,3,1000.0
-Newfoundland and Labrador,St. John's,2022,4,1040.0
-Newfoundland and Labrador,St. John's,2023,1,1040.0
-Newfoundland and Labrador,St. John's,2023,2,1020.0
-Newfoundland and Labrador,St. John's,2023,3,1070.0
-Newfoundland and Labrador,St. John's,2023,4,1120.0
-Newfoundland and Labrador,St. John's,2024,1,1150.0
-Newfoundland and Labrador,St. John's,2024,2,1050.0
-Newfoundland and Labrador,St. John's,2024,3,1200.0
-Newfoundland and Labrador,St. John's,2024,4,1230.0
-Newfoundland and Labrador,St. John's,2025,1,1210.0
-Ontario,Thunder Bay,2020,1,930.0
-Ontario,Thunder Bay,2020,2,960.0
-Ontario,Thunder Bay,2020,3,930.0
-Ontario,Thunder Bay,2020,4,960.0
-Ontario,Thunder Bay,2021,1,950.0
-Ontario,Thunder Bay,2021,2,1070.0
-Ontario,Thunder Bay,2021,3,980.0
-Ontario,Thunder Bay,2021,4,1000.0
-Ontario,Thunder Bay,2022,1,1090.0
-Ontario,Thunder Bay,2022,2,1100.0
-Ontario,Thunder Bay,2022,3,1110.0
-Ontario,Thunder Bay,2022,4,1190.0
-Ontario,Thunder Bay,2023,1,1130.0
-Ontario,Thunder Bay,2023,2,1180.0
-Ontario,Thunder Bay,2023,3,1300.0
-Ontario,Thunder Bay,2023,4,1190.0
-Ontario,Thunder Bay,2024,1,1320.0
-Ontario,Thunder Bay,2024,2,1320.0
-Ontario,Thunder Bay,2024,3,1380.0
-Ontario,Thunder Bay,2024,4,1320.0
-Ontario,Thunder Bay,2025,1,1410.0
-Ontario,Toronto,2020,1,2000.0
-Ontario,Toronto,2020,2,1930.0
-Ontario,Toronto,2020,3,1860.0
-Ontario,Toronto,2020,4,1750.0
-Ontario,Toronto,2021,1,1720.0
-Ontario,Toronto,2021,2,1740.0
-Ontario,Toronto,2021,3,1780.0
-Ontario,Toronto,2021,4,1830.0
-Ontario,Toronto,2022,1,1870.0
-Ontario,Toronto,2022,2,1950.0
-Ontario,Toronto,2022,3,2100.0
-Ontario,Toronto,2022,4,2180.0
-Ontario,Toronto,2023,1,2210.0
-Ontario,Toronto,2023,2,2280.0
-Ontario,Toronto,2023,3,2320.0
-Ontario,Toronto,2023,4,2340.0
-Ontario,Toronto,2024,1,2290.0
-Ontario,Toronto,2024,2,2280.0
-Ontario,Toronto,2024,3,2270.0
-Ontario,Toronto,2024,4,2210.0
-Ontario,Toronto,2025,1,2170.0
-Quebec,Trois-Rivières,2020,1,510.0
-Quebec,Trois-Rivières,2020,2,500.0
-Quebec,Trois-Rivières,2020,3,520.0
-Quebec,Trois-Rivières,2020,4,510.0
-Quebec,Trois-Rivières,2021,1,540.0
-Quebec,Trois-Rivières,2021,2,540.0
-Quebec,Trois-Rivières,2021,3,560.0
-Quebec,Trois-Rivières,2021,4,600.0
-Quebec,Trois-Rivières,2022,1,640.0
-Quebec,Trois-Rivières,2022,2,610.0
-Quebec,Trois-Rivières,2022,3,670.0
-Quebec,Trois-Rivières,2022,4,710.0
-Quebec,Trois-Rivières,2023,1,710.0
-Quebec,Trois-Rivières,2023,2,770.0
-Quebec,Trois-Rivières,2023,3,820.0
-Quebec,Trois-Rivières,2023,4,770.0
-Quebec,Trois-Rivières,2024,1,830.0
-Quebec,Trois-Rivières,2024,2,860.0
-Quebec,Trois-Rivières,2024,3,910.0
-Quebec,Trois-Rivières,2024,4,930.0
-Quebec,Trois-Rivières,2025,1,910.0
-British Columbia,Vancouver,2020,1,1910.0
-British Columbia,Vancouver,2020,2,1870.0
-British Columbia,Vancouver,2020,3,1850.0
-British Columbia,Vancouver,2020,4,1810.0
-British Columbia,Vancouver,2021,1,1840.0
-British Columbia,Vancouver,2021,2,1860.0
-British Columbia,Vancouver,2021,3,1910.0
-British Columbia,Vancouver,2021,4,1970.0
-British Columbia,Vancouver,2022,1,2060.0
-British Columbia,Vancouver,2022,2,2190.0
-British Columbia,Vancouver,2022,3,2400.0
-British Columbia,Vancouver,2022,4,2450.0
-British Columbia,Vancouver,2023,1,2440.0
-British Columbia,Vancouver,2023,2,2520.0
-British Columbia,Vancouver,2023,3,2640.0
-British Columbia,Vancouver,2023,4,2560.0
-British Columbia,Vancouver,2024,1,2530.0
-British Columbia,Vancouver,2024,2,2520.0
-British Columbia,Vancouver,2024,3,2510.0
-British Columbia,Vancouver,2024,4,2450.0
-British Columbia,Vancouver,2025,1,2380.0
-British Columbia,Victoria,2020,1,1580.0
-British Columbia,Victoria,2020,2,1560.0
-British Columbia,Victoria,2020,3,1570.0
-British Columbia,Victoria,2020,4,1600.0
-British Columbia,Victoria,2021,1,1610.0
-British Columbia,Victoria,2021,2,1640.0
-British Columbia,Victoria,2021,3,1710.0
-British Columbia,Victoria,2021,4,1760.0
-British Columbia,Victoria,2022,1,1830.0
-British Columbia,Victoria,2022,2,2010.0
-British Columbia,Victoria,2022,3,2030.0
-British Columbia,Victoria,2022,4,2090.0
-British Columbia,Victoria,2023,1,2010.0
-British Columbia,Victoria,2023,2,2060.0
-British Columbia,Victoria,2023,3,2090.0
-British Columbia,Victoria,2023,4,2120.0
-British Columbia,Victoria,2024,1,2090.0
-British Columbia,Victoria,2024,2,2090.0
-British Columbia,Victoria,2024,3,2130.0
-British Columbia,Victoria,2024,4,2090.0
-British Columbia,Victoria,2025,1,2090.0
-Ontario,Windsor,2020,1,1030.0
-Ontario,Windsor,2020,2,1100.0
-Ontario,Windsor,2020,3,1110.0
-Ontario,Windsor,2020,4,1120.0
-Ontario,Windsor,2021,1,1160.0
-Ontario,Windsor,2021,2,1170.0
-Ontario,Windsor,2021,3,1230.0
-Ontario,Windsor,2021,4,1220.0
-Ontario,Windsor,2022,1,1230.0
-Ontario,Windsor,2022,2,1290.0
-Ontario,Windsor,2022,3,1320.0
-Ontario,Windsor,2022,4,1320.0
-Ontario,Windsor,2023,1,1420.0
-Ontario,Windsor,2023,2,1410.0
-Ontario,Windsor,2023,3,1400.0
-Ontario,Windsor,2023,4,1470.0
-Ontario,Windsor,2024,1,1490.0
-Ontario,Windsor,2024,2,1510.0
-Ontario,Windsor,2024,3,1520.0
-Ontario,Windsor,2024,4,1520.0
-Ontario,Windsor,2025,1,1490.0
-Manitoba,Winnipeg,2020,1,1000.0
-Manitoba,Winnipeg,2020,2,1030.0
-Manitoba,Winnipeg,2020,3,1030.0
-Manitoba,Winnipeg,2020,4,1020.0
-Manitoba,Winnipeg,2021,1,1060.0
-Manitoba,Winnipeg,2021,2,1060.0
-Manitoba,Winnipeg,2021,3,1050.0
-Manitoba,Winnipeg,2021,4,1040.0
-Manitoba,Winnipeg,2022,1,1050.0
-Manitoba,Winnipeg,2022,2,1090.0
-Manitoba,Winnipeg,2022,3,1080.0
-Manitoba,Winnipeg,2022,4,1090.0
-Manitoba,Winnipeg,2023,1,1140.0
-Manitoba,Winnipeg,2023,2,1140.0
-Manitoba,Winnipeg,2023,3,1130.0
-Manitoba,Winnipeg,2023,4,1170.0
-Manitoba,Winnipeg,2024,1,1210.0
-Manitoba,Winnipeg,2024,2,1220.0
-Manitoba,Winnipeg,2024,3,1220.0
-Manitoba,Winnipeg,2024,4,1220.0
-Manitoba,Winnipeg,2025,1,1270.0
+Province,City,Year,Quarter,1_Bedroom_Rent,2_Bedroom_Rent
+British Columbia,Abbotsford - Mission,2020,1,1120.0,1330.0
+British Columbia,Abbotsford - Mission,2020,2,1120.0,1380.0
+British Columbia,Abbotsford - Mission,2020,3,1120.0,1370.0
+British Columbia,Abbotsford - Mission,2020,4,1190.0,1340.0
+British Columbia,Abbotsford - Mission,2021,1,1200.0,1580.0
+British Columbia,Abbotsford - Mission,2021,2,1250.0,1580.0
+British Columbia,Abbotsford - Mission,2021,3,1250.0,1580.0
+British Columbia,Abbotsford - Mission,2021,4,1350.0,1850.0
+British Columbia,Abbotsford - Mission,2022,1,1360.0,1630.0
+British Columbia,Abbotsford - Mission,2022,2,1400.0,1810.0
+British Columbia,Abbotsford - Mission,2022,3,1460.0,1760.0
+British Columbia,Abbotsford - Mission,2022,4,1480.0,1760.0
+British Columbia,Abbotsford - Mission,2023,1,1520.0,1810.0
+British Columbia,Abbotsford - Mission,2023,2,1590.0,1990.0
+British Columbia,Abbotsford - Mission,2023,3,1670.0,2010.0
+British Columbia,Abbotsford - Mission,2023,4,1750.0,2060.0
+British Columbia,Abbotsford - Mission,2024,1,1720.0,2040.0
+British Columbia,Abbotsford - Mission,2024,2,1680.0,2090.0
+British Columbia,Abbotsford - Mission,2024,3,1690.0,2130.0
+British Columbia,Abbotsford - Mission,2024,4,1640.0,1990.0
+British Columbia,Abbotsford - Mission,2025,1,1650.0,2020.0
+Ontario,Barrie,2020,1,1340.0,1580.0
+Ontario,Barrie,2020,2,1400.0,1590.0
+Ontario,Barrie,2020,3,1400.0,1620.0
+Ontario,Barrie,2020,4,1440.0,1690.0
+Ontario,Barrie,2021,1,1560.0,1730.0
+Ontario,Barrie,2021,2,1660.0,1770.0
+Ontario,Barrie,2021,3,1550.0,1850.0
+Ontario,Barrie,2021,4,1560.0,1860.0
+Ontario,Barrie,2022,1,1570.0,2000.0
+Ontario,Barrie,2022,2,1760.0,2050.0
+Ontario,Barrie,2022,3,1740.0,2030.0
+Ontario,Barrie,2022,4,1750.0,2010.0
+Ontario,Barrie,2023,1,1710.0,2010.0
+Ontario,Barrie,2023,2,1750.0,2040.0
+Ontario,Barrie,2023,3,1740.0,2050.0
+Ontario,Barrie,2023,4,1920.0,2200.0
+Ontario,Barrie,2024,1,1840.0,2240.0
+Ontario,Barrie,2024,2,1740.0,2080.0
+Ontario,Barrie,2024,3,1780.0,2050.0
+Ontario,Barrie,2024,4,1810.0,2050.0
+Ontario,Barrie,2025,1,1800.0,2120.0
+Ontario,Belleville - Quinte West,2020,1,1150.0,1370.0
+Ontario,Belleville - Quinte West,2020,2,1160.0,1400.0
+Ontario,Belleville - Quinte West,2020,3,1140.0,1470.0
+Ontario,Belleville - Quinte West,2020,4,1170.0,1470.0
+Ontario,Belleville - Quinte West,2021,1,1220.0,1480.0
+Ontario,Belleville - Quinte West,2021,2,1300.0,1590.0
+Ontario,Belleville - Quinte West,2021,3,1250.0,1530.0
+Ontario,Belleville - Quinte West,2021,4,1370.0,1590.0
+Ontario,Belleville - Quinte West,2022,1,1390.0,1700.0
+Ontario,Belleville - Quinte West,2022,2,1430.0,1720.0
+Ontario,Belleville - Quinte West,2022,3,1500.0,1810.0
+Ontario,Belleville - Quinte West,2022,4,1450.0,1790.0
+Ontario,Belleville - Quinte West,2023,1,1550.0,1790.0
+Ontario,Belleville - Quinte West,2023,2,1500.0,1840.0
+Ontario,Belleville - Quinte West,2023,3,1500.0,1880.0
+Ontario,Belleville - Quinte West,2023,4,1510.0,1920.0
+Ontario,Belleville - Quinte West,2024,1,1600.0,1830.0
+Ontario,Belleville - Quinte West,2024,2,1580.0,1830.0
+Ontario,Belleville - Quinte West,2024,3,1630.0,1950.0
+Ontario,Belleville - Quinte West,2024,4,1640.0,1880.0
+Ontario,Belleville - Quinte West,2025,1,1560.0,1860.0
+Ontario,Brantford,2020,1,1190.0,1380.0
+Ontario,Brantford,2020,2,1220.0,1440.0
+Ontario,Brantford,2020,3,1210.0,1450.0
+Ontario,Brantford,2020,4,1250.0,1480.0
+Ontario,Brantford,2021,1,1290.0,1480.0
+Ontario,Brantford,2021,2,1320.0,1510.0
+Ontario,Brantford,2021,3,1400.0,1620.0
+Ontario,Brantford,2021,4,1400.0,1670.0
+Ontario,Brantford,2022,1,1430.0,1660.0
+Ontario,Brantford,2022,2,1420.0,1750.0
+Ontario,Brantford,2022,3,1540.0,1770.0
+Ontario,Brantford,2022,4,1530.0,1830.0
+Ontario,Brantford,2023,1,1570.0,1850.0
+Ontario,Brantford,2023,2,1570.0,1880.0
+Ontario,Brantford,2023,3,1610.0,1870.0
+Ontario,Brantford,2023,4,1640.0,1950.0
+Ontario,Brantford,2024,1,1620.0,1910.0
+Ontario,Brantford,2024,2,1620.0,1900.0
+Ontario,Brantford,2024,3,1680.0,1910.0
+Ontario,Brantford,2024,4,1690.0,1910.0
+Ontario,Brantford,2025,1,1650.0,1880.0
+Alberta,Calgary,2020,1,1180.0,1410.0
+Alberta,Calgary,2020,2,1190.0,1400.0
+Alberta,Calgary,2020,3,1190.0,1400.0
+Alberta,Calgary,2020,4,1170.0,1380.0
+Alberta,Calgary,2021,1,1180.0,1420.0
+Alberta,Calgary,2021,2,1200.0,1440.0
+Alberta,Calgary,2021,3,1210.0,1450.0
+Alberta,Calgary,2021,4,1220.0,1460.0
+Alberta,Calgary,2022,1,1250.0,1500.0
+Alberta,Calgary,2022,2,1290.0,1560.0
+Alberta,Calgary,2022,3,1370.0,1700.0
+Alberta,Calgary,2022,4,1440.0,1760.0
+Alberta,Calgary,2023,1,1500.0,1790.0
+Alberta,Calgary,2023,2,1520.0,1840.0
+Alberta,Calgary,2023,3,1660.0,2010.0
+Alberta,Calgary,2023,4,1770.0,2130.0
+Alberta,Calgary,2024,1,1740.0,2090.0
+Alberta,Calgary,2024,2,1760.0,2150.0
+Alberta,Calgary,2024,3,1720.0,2050.0
+Alberta,Calgary,2024,4,1630.0,1950.0
+Alberta,Calgary,2025,1,1630.0,1920.0
+British Columbia,Chilliwack,2020,1,1000.0,1290.0
+British Columbia,Chilliwack,2020,2,1090.0,1270.0
+British Columbia,Chilliwack,2020,3,1090.0,1310.0
+British Columbia,Chilliwack,2020,4,1130.0,1430.0
+British Columbia,Chilliwack,2021,1,1160.0,1650.0
+British Columbia,Chilliwack,2021,2,1210.0,1590.0
+British Columbia,Chilliwack,2021,3,1220.0,1680.0
+British Columbia,Chilliwack,2021,4,1250.0,1610.0
+British Columbia,Chilliwack,2022,1,1340.0,1550.0
+British Columbia,Chilliwack,2022,2,1400.0,1720.0
+British Columbia,Chilliwack,2022,3,1390.0,1710.0
+British Columbia,Chilliwack,2022,4,1430.0,1680.0
+British Columbia,Chilliwack,2023,1,1460.0,1660.0
+British Columbia,Chilliwack,2023,2,1490.0,1800.0
+British Columbia,Chilliwack,2023,3,1520.0,1820.0
+British Columbia,Chilliwack,2023,4,1520.0,1820.0
+British Columbia,Chilliwack,2024,1,1460.0,1840.0
+British Columbia,Chilliwack,2024,2,1470.0,1820.0
+British Columbia,Chilliwack,2024,3,1480.0,1790.0
+British Columbia,Chilliwack,2024,4,1450.0,1830.0
+British Columbia,Chilliwack,2025,1,1490.0,1710.0
+Quebec,Drummondville,2020,1,,650.0
+Quebec,Drummondville,2020,2,,670.0
+Quebec,Drummondville,2020,3,,670.0
+Quebec,Drummondville,2020,4,,710.0
+Quebec,Drummondville,2021,1,,750.0
+Quebec,Drummondville,2021,2,,760.0
+Quebec,Drummondville,2021,3,,790.0
+Quebec,Drummondville,2021,4,,810.0
+Quebec,Drummondville,2022,1,,860.0
+Quebec,Drummondville,2022,2,,910.0
+Quebec,Drummondville,2022,3,,980.0
+Quebec,Drummondville,2022,4,,980.0
+Quebec,Drummondville,2023,1,,970.0
+Quebec,Drummondville,2023,2,,1040.0
+Quebec,Drummondville,2023,3,,1070.0
+Quebec,Drummondville,2023,4,,990.0
+Quebec,Drummondville,2024,1,,1100.0
+Quebec,Drummondville,2024,2,,1060.0
+Quebec,Drummondville,2024,3,,1040.0
+Quebec,Drummondville,2024,4,,1150.0
+Quebec,Drummondville,2025,1,,1200.0
+Alberta,Edmonton,2020,1,1050.0,1290.0
+Alberta,Edmonton,2020,2,1050.0,1310.0
+Alberta,Edmonton,2020,3,1070.0,1330.0
+Alberta,Edmonton,2020,4,1040.0,1300.0
+Alberta,Edmonton,2021,1,1050.0,1320.0
+Alberta,Edmonton,2021,2,1060.0,1330.0
+Alberta,Edmonton,2021,3,1060.0,1320.0
+Alberta,Edmonton,2021,4,1040.0,1310.0
+Alberta,Edmonton,2022,1,1050.0,1310.0
+Alberta,Edmonton,2022,2,1060.0,1330.0
+Alberta,Edmonton,2022,3,1080.0,1380.0
+Alberta,Edmonton,2022,4,1100.0,1400.0
+Alberta,Edmonton,2023,1,1110.0,1400.0
+Alberta,Edmonton,2023,2,1140.0,1450.0
+Alberta,Edmonton,2023,3,1170.0,1510.0
+Alberta,Edmonton,2023,4,1240.0,1550.0
+Alberta,Edmonton,2024,1,1270.0,1610.0
+Alberta,Edmonton,2024,2,1290.0,1620.0
+Alberta,Edmonton,2024,3,1320.0,1620.0
+Alberta,Edmonton,2024,4,1280.0,1590.0
+Alberta,Edmonton,2025,1,1280.0,1590.0
+New Brunswick,Fredericton,2020,1,930.0,1010.0
+New Brunswick,Fredericton,2020,2,860.0,1060.0
+New Brunswick,Fredericton,2020,3,910.0,1070.0
+New Brunswick,Fredericton,2020,4,940.0,1090.0
+New Brunswick,Fredericton,2021,1,960.0,1140.0
+New Brunswick,Fredericton,2021,2,970.0,1170.0
+New Brunswick,Fredericton,2021,3,970.0,1190.0
+New Brunswick,Fredericton,2021,4,1020.0,1290.0
+New Brunswick,Fredericton,2022,1,1070.0,1280.0
+New Brunswick,Fredericton,2022,2,1110.0,1360.0
+New Brunswick,Fredericton,2022,3,1120.0,1350.0
+New Brunswick,Fredericton,2022,4,1130.0,1430.0
+New Brunswick,Fredericton,2023,1,1160.0,1440.0
+New Brunswick,Fredericton,2023,2,1110.0,1490.0
+New Brunswick,Fredericton,2023,3,1180.0,1490.0
+New Brunswick,Fredericton,2023,4,1240.0,1550.0
+New Brunswick,Fredericton,2024,1,1330.0,1560.0
+New Brunswick,Fredericton,2024,2,1260.0,1570.0
+New Brunswick,Fredericton,2024,3,1280.0,1580.0
+New Brunswick,Fredericton,2024,4,1390.0,1610.0
+New Brunswick,Fredericton,2025,1,1320.0,1570.0
+Ontario,Greater Sudbury,2020,1,940.0,1210.0
+Ontario,Greater Sudbury,2020,2,970.0,1270.0
+Ontario,Greater Sudbury,2020,3,990.0,1340.0
+Ontario,Greater Sudbury,2020,4,1060.0,1370.0
+Ontario,Greater Sudbury,2021,1,1050.0,1370.0
+Ontario,Greater Sudbury,2021,2,1070.0,1410.0
+Ontario,Greater Sudbury,2021,3,1150.0,1470.0
+Ontario,Greater Sudbury,2021,4,1190.0,1490.0
+Ontario,Greater Sudbury,2022,1,1190.0,1480.0
+Ontario,Greater Sudbury,2022,2,1190.0,1580.0
+Ontario,Greater Sudbury,2022,3,1220.0,1590.0
+Ontario,Greater Sudbury,2022,4,1270.0,1580.0
+Ontario,Greater Sudbury,2023,1,1300.0,1620.0
+Ontario,Greater Sudbury,2023,2,1280.0,1720.0
+Ontario,Greater Sudbury,2023,3,1370.0,1720.0
+Ontario,Greater Sudbury,2023,4,1390.0,1730.0
+Ontario,Greater Sudbury,2024,1,1410.0,1810.0
+Ontario,Greater Sudbury,2024,2,1380.0,1800.0
+Ontario,Greater Sudbury,2024,3,1460.0,1820.0
+Ontario,Greater Sudbury,2024,4,1530.0,1850.0
+Ontario,Greater Sudbury,2025,1,1540.0,1830.0
+Ontario,Guelph,2020,1,1380.0,1580.0
+Ontario,Guelph,2020,2,1370.0,1630.0
+Ontario,Guelph,2020,3,1390.0,1640.0
+Ontario,Guelph,2020,4,1420.0,1630.0
+Ontario,Guelph,2021,1,1420.0,1680.0
+Ontario,Guelph,2021,2,1490.0,1730.0
+Ontario,Guelph,2021,3,1540.0,1840.0
+Ontario,Guelph,2021,4,1610.0,1870.0
+Ontario,Guelph,2022,1,1600.0,1900.0
+Ontario,Guelph,2022,2,1650.0,1970.0
+Ontario,Guelph,2022,3,1730.0,2050.0
+Ontario,Guelph,2022,4,1840.0,2130.0
+Ontario,Guelph,2023,1,1940.0,2110.0
+Ontario,Guelph,2023,2,1960.0,2130.0
+Ontario,Guelph,2023,3,1990.0,2220.0
+Ontario,Guelph,2023,4,2040.0,2300.0
+Ontario,Guelph,2024,1,2020.0,2320.0
+Ontario,Guelph,2024,2,2040.0,2290.0
+Ontario,Guelph,2024,3,2010.0,2250.0
+Ontario,Guelph,2024,4,2000.0,2270.0
+Ontario,Guelph,2025,1,1910.0,2270.0
+Nova Scotia,Halifax,2020,1,1230.0,1470.0
+Nova Scotia,Halifax,2020,2,1230.0,1530.0
+Nova Scotia,Halifax,2020,3,1280.0,1600.0
+Nova Scotia,Halifax,2020,4,1250.0,1590.0
+Nova Scotia,Halifax,2021,1,1280.0,1630.0
+Nova Scotia,Halifax,2021,2,1320.0,1680.0
+Nova Scotia,Halifax,2021,3,1330.0,1720.0
+Nova Scotia,Halifax,2021,4,1360.0,1830.0
+Nova Scotia,Halifax,2022,1,1430.0,1810.0
+Nova Scotia,Halifax,2022,2,1450.0,1920.0
+Nova Scotia,Halifax,2022,3,1520.0,1990.0
+Nova Scotia,Halifax,2022,4,1650.0,2050.0
+Nova Scotia,Halifax,2023,1,1700.0,2120.0
+Nova Scotia,Halifax,2023,2,1790.0,2260.0
+Nova Scotia,Halifax,2023,3,1780.0,2300.0
+Nova Scotia,Halifax,2023,4,1800.0,2350.0
+Nova Scotia,Halifax,2024,1,1840.0,2380.0
+Nova Scotia,Halifax,2024,2,1840.0,2440.0
+Nova Scotia,Halifax,2024,3,1880.0,2390.0
+Nova Scotia,Halifax,2024,4,1780.0,2230.0
+Nova Scotia,Halifax,2025,1,1770.0,2230.0
+Ontario,Hamilton,2020,1,1440.0,1730.0
+Ontario,Hamilton,2020,2,1470.0,1730.0
+Ontario,Hamilton,2020,3,1490.0,1740.0
+Ontario,Hamilton,2020,4,1480.0,1750.0
+Ontario,Hamilton,2021,1,1490.0,1750.0
+Ontario,Hamilton,2021,2,1490.0,1780.0
+Ontario,Hamilton,2021,3,1510.0,1820.0
+Ontario,Hamilton,2021,4,1550.0,1860.0
+Ontario,Hamilton,2022,1,1570.0,1940.0
+Ontario,Hamilton,2022,2,1650.0,1990.0
+Ontario,Hamilton,2022,3,1700.0,2070.0
+Ontario,Hamilton,2022,4,1750.0,2100.0
+Ontario,Hamilton,2023,1,1770.0,2110.0
+Ontario,Hamilton,2023,2,1790.0,2150.0
+Ontario,Hamilton,2023,3,1790.0,2170.0
+Ontario,Hamilton,2023,4,1840.0,2250.0
+Ontario,Hamilton,2024,1,1820.0,2220.0
+Ontario,Hamilton,2024,2,1820.0,2250.0
+Ontario,Hamilton,2024,3,1850.0,2300.0
+Ontario,Hamilton,2024,4,1790.0,2240.0
+Ontario,Hamilton,2025,1,1800.0,2180.0
+British Columbia,Kamloops,2020,1,1090.0,1350.0
+British Columbia,Kamloops,2020,2,1110.0,1380.0
+British Columbia,Kamloops,2020,3,1110.0,1410.0
+British Columbia,Kamloops,2020,4,1160.0,1420.0
+British Columbia,Kamloops,2021,1,1200.0,1460.0
+British Columbia,Kamloops,2021,2,1250.0,1590.0
+British Columbia,Kamloops,2021,3,1290.0,1630.0
+British Columbia,Kamloops,2021,4,1360.0,1740.0
+British Columbia,Kamloops,2022,1,1340.0,1810.0
+British Columbia,Kamloops,2022,2,1410.0,1790.0
+British Columbia,Kamloops,2022,3,1400.0,1870.0
+British Columbia,Kamloops,2022,4,1420.0,1850.0
+British Columbia,Kamloops,2023,1,1470.0,1920.0
+British Columbia,Kamloops,2023,2,1490.0,1960.0
+British Columbia,Kamloops,2023,3,1540.0,2010.0
+British Columbia,Kamloops,2023,4,1510.0,1910.0
+British Columbia,Kamloops,2024,1,1470.0,1870.0
+British Columbia,Kamloops,2024,2,1540.0,1870.0
+British Columbia,Kamloops,2024,3,1550.0,1970.0
+British Columbia,Kamloops,2024,4,1550.0,1860.0
+British Columbia,Kamloops,2025,1,1550.0,1840.0
+British Columbia,Kelowna,2020,1,1380.0,1650.0
+British Columbia,Kelowna,2020,2,1430.0,1700.0
+British Columbia,Kelowna,2020,3,1470.0,1850.0
+British Columbia,Kelowna,2020,4,1470.0,1990.0
+British Columbia,Kelowna,2021,1,1560.0,2160.0
+British Columbia,Kelowna,2021,2,1640.0,2170.0
+British Columbia,Kelowna,2021,3,1670.0,2390.0
+British Columbia,Kelowna,2021,4,1700.0,2280.0
+British Columbia,Kelowna,2022,1,1650.0,2310.0
+British Columbia,Kelowna,2022,2,1770.0,2430.0
+British Columbia,Kelowna,2022,3,1900.0,2720.0
+British Columbia,Kelowna,2022,4,1920.0,2380.0
+British Columbia,Kelowna,2023,1,1920.0,2380.0
+British Columbia,Kelowna,2023,2,1730.0,2560.0
+British Columbia,Kelowna,2023,3,1890.0,2550.0
+British Columbia,Kelowna,2023,4,1960.0,2640.0
+British Columbia,Kelowna,2024,1,1920.0,2430.0
+British Columbia,Kelowna,2024,2,2010.0,2490.0
+British Columbia,Kelowna,2024,3,1910.0,2530.0
+British Columbia,Kelowna,2024,4,1860.0,2410.0
+British Columbia,Kelowna,2025,1,1740.0,2200.0
+Ontario,Kingston,2020,1,1280.0,1520.0
+Ontario,Kingston,2020,2,1280.0,1510.0
+Ontario,Kingston,2020,3,1280.0,1530.0
+Ontario,Kingston,2020,4,1280.0,1550.0
+Ontario,Kingston,2021,1,1310.0,1590.0
+Ontario,Kingston,2021,2,1360.0,1630.0
+Ontario,Kingston,2021,3,1370.0,1680.0
+Ontario,Kingston,2021,4,1420.0,1720.0
+Ontario,Kingston,2022,1,1460.0,1740.0
+Ontario,Kingston,2022,2,1520.0,1730.0
+Ontario,Kingston,2022,3,1570.0,1930.0
+Ontario,Kingston,2022,4,1620.0,1920.0
+Ontario,Kingston,2023,1,1630.0,1990.0
+Ontario,Kingston,2023,2,1630.0,1970.0
+Ontario,Kingston,2023,3,1690.0,2010.0
+Ontario,Kingston,2023,4,1710.0,2040.0
+Ontario,Kingston,2024,1,1700.0,2000.0
+Ontario,Kingston,2024,2,1780.0,2060.0
+Ontario,Kingston,2024,3,1780.0,2050.0
+Ontario,Kingston,2024,4,1730.0,2020.0
+Ontario,Kingston,2025,1,1710.0,2040.0
+Ontario,Kitchener - Cambridge - Waterloo,2020,1,1370.0,1610.0
+Ontario,Kitchener - Cambridge - Waterloo,2020,2,1410.0,1640.0
+Ontario,Kitchener - Cambridge - Waterloo,2020,3,1420.0,1670.0
+Ontario,Kitchener - Cambridge - Waterloo,2020,4,1430.0,1660.0
+Ontario,Kitchener - Cambridge - Waterloo,2021,1,1440.0,1670.0
+Ontario,Kitchener - Cambridge - Waterloo,2021,2,1510.0,1720.0
+Ontario,Kitchener - Cambridge - Waterloo,2021,3,1520.0,1760.0
+Ontario,Kitchener - Cambridge - Waterloo,2021,4,1560.0,1790.0
+Ontario,Kitchener - Cambridge - Waterloo,2022,1,1590.0,1870.0
+Ontario,Kitchener - Cambridge - Waterloo,2022,2,1630.0,2000.0
+Ontario,Kitchener - Cambridge - Waterloo,2022,3,1740.0,2100.0
+Ontario,Kitchener - Cambridge - Waterloo,2022,4,1870.0,2160.0
+Ontario,Kitchener - Cambridge - Waterloo,2023,1,1860.0,2210.0
+Ontario,Kitchener - Cambridge - Waterloo,2023,2,1820.0,2240.0
+Ontario,Kitchener - Cambridge - Waterloo,2023,3,1880.0,2250.0
+Ontario,Kitchener - Cambridge - Waterloo,2023,4,1910.0,2300.0
+Ontario,Kitchener - Cambridge - Waterloo,2024,1,1890.0,2280.0
+Ontario,Kitchener - Cambridge - Waterloo,2024,2,1880.0,2250.0
+Ontario,Kitchener - Cambridge - Waterloo,2024,3,1880.0,2230.0
+Ontario,Kitchener - Cambridge - Waterloo,2024,4,1850.0,2190.0
+Ontario,Kitchener - Cambridge - Waterloo,2025,1,1810.0,2150.0
+Alberta,Lethbridge,2020,1,890.0,1070.0
+Alberta,Lethbridge,2020,2,920.0,1090.0
+Alberta,Lethbridge,2020,3,900.0,1050.0
+Alberta,Lethbridge,2020,4,910.0,1050.0
+Alberta,Lethbridge,2021,1,890.0,1060.0
+Alberta,Lethbridge,2021,2,920.0,1090.0
+Alberta,Lethbridge,2021,3,930.0,1110.0
+Alberta,Lethbridge,2021,4,940.0,1140.0
+Alberta,Lethbridge,2022,1,960.0,1160.0
+Alberta,Lethbridge,2022,2,980.0,1180.0
+Alberta,Lethbridge,2022,3,990.0,1210.0
+Alberta,Lethbridge,2022,4,1070.0,1230.0
+Alberta,Lethbridge,2023,1,1080.0,1250.0
+Alberta,Lethbridge,2023,2,1070.0,1260.0
+Alberta,Lethbridge,2023,3,1120.0,1300.0
+Alberta,Lethbridge,2023,4,1120.0,1320.0
+Alberta,Lethbridge,2024,1,1140.0,1360.0
+Alberta,Lethbridge,2024,2,1170.0,1410.0
+Alberta,Lethbridge,2024,3,1280.0,1470.0
+Alberta,Lethbridge,2024,4,1240.0,1490.0
+Alberta,Lethbridge,2025,1,1260.0,1530.0
+Ontario,London,2020,1,1160.0,1470.0
+Ontario,London,2020,2,1170.0,1490.0
+Ontario,London,2020,3,1180.0,1500.0
+Ontario,London,2020,4,1200.0,1490.0
+Ontario,London,2021,1,1220.0,1520.0
+Ontario,London,2021,2,1240.0,1550.0
+Ontario,London,2021,3,1260.0,1560.0
+Ontario,London,2021,4,1300.0,1590.0
+Ontario,London,2022,1,1360.0,1690.0
+Ontario,London,2022,2,1400.0,1740.0
+Ontario,London,2022,3,1470.0,1860.0
+Ontario,London,2022,4,1490.0,1850.0
+Ontario,London,2023,1,1570.0,1880.0
+Ontario,London,2023,2,1560.0,1910.0
+Ontario,London,2023,3,1570.0,1940.0
+Ontario,London,2023,4,1620.0,1980.0
+Ontario,London,2024,1,1640.0,2010.0
+Ontario,London,2024,2,1650.0,2020.0
+Ontario,London,2024,3,1640.0,2030.0
+Ontario,London,2024,4,1640.0,2010.0
+Ontario,London,2025,1,1640.0,2020.0
+New Brunswick,Moncton,2020,1,810.0,950.0
+New Brunswick,Moncton,2020,2,840.0,980.0
+New Brunswick,Moncton,2020,3,840.0,990.0
+New Brunswick,Moncton,2020,4,840.0,1030.0
+New Brunswick,Moncton,2021,1,890.0,1080.0
+New Brunswick,Moncton,2021,2,940.0,1110.0
+New Brunswick,Moncton,2021,3,960.0,1140.0
+New Brunswick,Moncton,2021,4,1020.0,1230.0
+New Brunswick,Moncton,2022,1,1000.0,1210.0
+New Brunswick,Moncton,2022,2,1030.0,1240.0
+New Brunswick,Moncton,2022,3,1080.0,1290.0
+New Brunswick,Moncton,2022,4,1100.0,1290.0
+New Brunswick,Moncton,2023,1,1150.0,1370.0
+New Brunswick,Moncton,2023,2,1140.0,1380.0
+New Brunswick,Moncton,2023,3,1140.0,1420.0
+New Brunswick,Moncton,2023,4,1220.0,1450.0
+New Brunswick,Moncton,2024,1,1210.0,1470.0
+New Brunswick,Moncton,2024,2,1220.0,1510.0
+New Brunswick,Moncton,2024,3,1290.0,1550.0
+New Brunswick,Moncton,2024,4,1310.0,1520.0
+New Brunswick,Moncton,2025,1,1320.0,1520.0
+Quebec,Montréal,2020,1,1110.0,1330.0
+Quebec,Montréal,2020,2,1130.0,1350.0
+Quebec,Montréal,2020,3,1170.0,1420.0
+Quebec,Montréal,2020,4,1140.0,1390.0
+Quebec,Montréal,2021,1,1140.0,1400.0
+Quebec,Montréal,2021,2,1140.0,1420.0
+Quebec,Montréal,2021,3,1170.0,1460.0
+Quebec,Montréal,2021,4,1210.0,1530.0
+Quebec,Montréal,2022,1,1220.0,1530.0
+Quebec,Montréal,2022,2,1240.0,1550.0
+Quebec,Montréal,2022,3,1330.0,1690.0
+Quebec,Montréal,2022,4,1370.0,1750.0
+Quebec,Montréal,2023,1,1410.0,1770.0
+Quebec,Montréal,2023,2,1400.0,1780.0
+Quebec,Montréal,2023,3,1480.0,1880.0
+Quebec,Montréal,2023,4,1520.0,1920.0
+Quebec,Montréal,2024,1,1540.0,1940.0
+Quebec,Montréal,2024,2,1540.0,1890.0
+Quebec,Montréal,2024,3,1570.0,1950.0
+Quebec,Montréal,2024,4,1550.0,1930.0
+Quebec,Montréal,2025,1,1540.0,1930.0
+British Columbia,Nanaimo,2020,1,1150.0,1410.0
+British Columbia,Nanaimo,2020,2,1140.0,1430.0
+British Columbia,Nanaimo,2020,3,1150.0,1560.0
+British Columbia,Nanaimo,2020,4,1190.0,1440.0
+British Columbia,Nanaimo,2021,1,1250.0,1620.0
+British Columbia,Nanaimo,2021,2,1310.0,1740.0
+British Columbia,Nanaimo,2021,3,1340.0,1730.0
+British Columbia,Nanaimo,2021,4,1410.0,1720.0
+British Columbia,Nanaimo,2022,1,1400.0,1730.0
+British Columbia,Nanaimo,2022,2,1530.0,1900.0
+British Columbia,Nanaimo,2022,3,1600.0,1990.0
+British Columbia,Nanaimo,2022,4,1530.0,1920.0
+British Columbia,Nanaimo,2023,1,1610.0,1920.0
+British Columbia,Nanaimo,2023,2,1590.0,1860.0
+British Columbia,Nanaimo,2023,3,1670.0,2030.0
+British Columbia,Nanaimo,2023,4,1710.0,2000.0
+British Columbia,Nanaimo,2024,1,1690.0,2030.0
+British Columbia,Nanaimo,2024,2,1680.0,2030.0
+British Columbia,Nanaimo,2024,3,1680.0,1970.0
+British Columbia,Nanaimo,2024,4,1650.0,1960.0
+British Columbia,Nanaimo,2025,1,1670.0,2020.0
+Ontario,Oshawa,2020,1,1320.0,1530.0
+Ontario,Oshawa,2020,2,1330.0,1530.0
+Ontario,Oshawa,2020,3,1320.0,1550.0
+Ontario,Oshawa,2020,4,1340.0,1540.0
+Ontario,Oshawa,2021,1,1340.0,1620.0
+Ontario,Oshawa,2021,2,1420.0,1680.0
+Ontario,Oshawa,2021,3,1420.0,1690.0
+Ontario,Oshawa,2021,4,1460.0,1760.0
+Ontario,Oshawa,2022,1,1520.0,1810.0
+Ontario,Oshawa,2022,2,1540.0,1830.0
+Ontario,Oshawa,2022,3,1610.0,1930.0
+Ontario,Oshawa,2022,4,1630.0,1910.0
+Ontario,Oshawa,2023,1,1710.0,1960.0
+Ontario,Oshawa,2023,2,1750.0,1990.0
+Ontario,Oshawa,2023,3,1760.0,2040.0
+Ontario,Oshawa,2023,4,1770.0,2090.0
+Ontario,Oshawa,2024,1,1740.0,2090.0
+Ontario,Oshawa,2024,2,1770.0,2090.0
+Ontario,Oshawa,2024,3,1800.0,2090.0
+Ontario,Oshawa,2024,4,1750.0,2090.0
+Ontario,Oshawa,2025,1,1720.0,2070.0
+Ontario,Ottawa - Gatineau (Ontario part),2020,1,1560.0,1850.0
+Ontario,Ottawa - Gatineau (Ontario part),2020,2,1550.0,1840.0
+Ontario,Ottawa - Gatineau (Ontario part),2020,3,1530.0,1830.0
+Ontario,Ottawa - Gatineau (Ontario part),2020,4,1500.0,1780.0
+Ontario,Ottawa - Gatineau (Ontario part),2021,1,1510.0,1770.0
+Ontario,Ottawa - Gatineau (Ontario part),2021,2,1550.0,1860.0
+Ontario,Ottawa - Gatineau (Ontario part),2021,3,1560.0,1900.0
+Ontario,Ottawa - Gatineau (Ontario part),2021,4,1570.0,1900.0
+Ontario,Ottawa - Gatineau (Ontario part),2022,1,1610.0,1950.0
+Ontario,Ottawa - Gatineau (Ontario part),2022,2,1640.0,2010.0
+Ontario,Ottawa - Gatineau (Ontario part),2022,3,1740.0,2080.0
+Ontario,Ottawa - Gatineau (Ontario part),2022,4,1760.0,2110.0
+Ontario,Ottawa - Gatineau (Ontario part),2023,1,1770.0,2110.0
+Ontario,Ottawa - Gatineau (Ontario part),2023,2,1810.0,2200.0
+Ontario,Ottawa - Gatineau (Ontario part),2023,3,1800.0,2200.0
+Ontario,Ottawa - Gatineau (Ontario part),2023,4,1870.0,2260.0
+Ontario,Ottawa - Gatineau (Ontario part),2024,1,1890.0,2290.0
+Ontario,Ottawa - Gatineau (Ontario part),2024,2,1960.0,2400.0
+Ontario,Ottawa - Gatineau (Ontario part),2024,3,1960.0,2440.0
+Ontario,Ottawa - Gatineau (Ontario part),2024,4,1970.0,2470.0
+Ontario,Ottawa - Gatineau (Ontario part),2025,1,2010.0,2490.0
+Quebec,Ottawa - Gatineau (Quebec part),2020,1,970.0,1120.0
+Quebec,Ottawa - Gatineau (Quebec part),2020,2,990.0,1140.0
+Quebec,Ottawa - Gatineau (Quebec part),2020,3,1050.0,1180.0
+Quebec,Ottawa - Gatineau (Quebec part),2020,4,1010.0,1220.0
+Quebec,Ottawa - Gatineau (Quebec part),2021,1,1020.0,1230.0
+Quebec,Ottawa - Gatineau (Quebec part),2021,2,1060.0,1240.0
+Quebec,Ottawa - Gatineau (Quebec part),2021,3,1170.0,1290.0
+Quebec,Ottawa - Gatineau (Quebec part),2021,4,1210.0,1360.0
+Quebec,Ottawa - Gatineau (Quebec part),2022,1,1220.0,1410.0
+Quebec,Ottawa - Gatineau (Quebec part),2022,2,1200.0,1430.0
+Quebec,Ottawa - Gatineau (Quebec part),2022,3,1360.0,1520.0
+Quebec,Ottawa - Gatineau (Quebec part),2022,4,1370.0,1540.0
+Quebec,Ottawa - Gatineau (Quebec part),2023,1,1390.0,1610.0
+Quebec,Ottawa - Gatineau (Quebec part),2023,2,1370.0,1590.0
+Quebec,Ottawa - Gatineau (Quebec part),2023,3,1430.0,1620.0
+Quebec,Ottawa - Gatineau (Quebec part),2023,4,1490.0,1670.0
+Quebec,Ottawa - Gatineau (Quebec part),2024,1,1530.0,1750.0
+Quebec,Ottawa - Gatineau (Quebec part),2024,2,1510.0,1760.0
+Quebec,Ottawa - Gatineau (Quebec part),2024,3,1520.0,1750.0
+Quebec,Ottawa - Gatineau (Quebec part),2024,4,1580.0,1770.0
+Quebec,Ottawa - Gatineau (Quebec part),2025,1,1520.0,1680.0
+Ontario,Peterborough,2020,1,1150.0,1420.0
+Ontario,Peterborough,2020,2,1180.0,1440.0
+Ontario,Peterborough,2020,3,1180.0,1440.0
+Ontario,Peterborough,2020,4,1180.0,1490.0
+Ontario,Peterborough,2021,1,1300.0,1570.0
+Ontario,Peterborough,2021,2,1310.0,1580.0
+Ontario,Peterborough,2021,3,1330.0,1680.0
+Ontario,Peterborough,2021,4,1340.0,1640.0
+Ontario,Peterborough,2022,1,1350.0,1710.0
+Ontario,Peterborough,2022,2,1460.0,1770.0
+Ontario,Peterborough,2022,3,1510.0,1880.0
+Ontario,Peterborough,2022,4,1510.0,1870.0
+Ontario,Peterborough,2023,1,1540.0,1880.0
+Ontario,Peterborough,2023,2,1570.0,1920.0
+Ontario,Peterborough,2023,3,1550.0,1910.0
+Ontario,Peterborough,2023,4,1590.0,1920.0
+Ontario,Peterborough,2024,1,1610.0,1970.0
+Ontario,Peterborough,2024,2,1630.0,1960.0
+Ontario,Peterborough,2024,3,1630.0,2000.0
+Ontario,Peterborough,2024,4,1590.0,1950.0
+Ontario,Peterborough,2025,1,1600.0,1940.0
+Quebec,Québec,2020,1,780.0,900.0
+Quebec,Québec,2020,2,830.0,940.0
+Quebec,Québec,2020,3,900.0,960.0
+Quebec,Québec,2020,4,890.0,1000.0
+Quebec,Québec,2021,1,840.0,980.0
+Quebec,Québec,2021,2,920.0,1010.0
+Quebec,Québec,2021,3,900.0,1060.0
+Quebec,Québec,2021,4,960.0,1090.0
+Quebec,Québec,2022,1,890.0,1010.0
+Quebec,Québec,2022,2,920.0,1110.0
+Quebec,Québec,2022,3,1000.0,1190.0
+Quebec,Québec,2022,4,1060.0,1250.0
+Quebec,Québec,2023,1,1030.0,1200.0
+Quebec,Québec,2023,2,1100.0,1300.0
+Quebec,Québec,2023,3,1200.0,1360.0
+Quebec,Québec,2023,4,1260.0,1470.0
+Quebec,Québec,2024,1,1190.0,1420.0
+Quebec,Québec,2024,2,1220.0,1560.0
+Quebec,Québec,2024,3,1220.0,1570.0
+Quebec,Québec,2024,4,1280.0,1530.0
+Quebec,Québec,2025,1,1210.0,1470.0
+Alberta,Red Deer,2020,1,820.0,990.0
+Alberta,Red Deer,2020,2,830.0,990.0
+Alberta,Red Deer,2020,3,860.0,1000.0
+Alberta,Red Deer,2020,4,860.0,990.0
+Alberta,Red Deer,2021,1,890.0,1010.0
+Alberta,Red Deer,2021,2,860.0,1020.0
+Alberta,Red Deer,2021,3,850.0,1050.0
+Alberta,Red Deer,2021,4,840.0,1060.0
+Alberta,Red Deer,2022,1,880.0,1060.0
+Alberta,Red Deer,2022,2,900.0,1120.0
+Alberta,Red Deer,2022,3,880.0,1100.0
+Alberta,Red Deer,2022,4,950.0,1150.0
+Alberta,Red Deer,2023,1,940.0,1160.0
+Alberta,Red Deer,2023,2,990.0,1220.0
+Alberta,Red Deer,2023,3,1030.0,1290.0
+Alberta,Red Deer,2023,4,1200.0,1420.0
+Alberta,Red Deer,2024,1,1120.0,1440.0
+Alberta,Red Deer,2024,2,1230.0,1440.0
+Alberta,Red Deer,2024,3,1180.0,1420.0
+Alberta,Red Deer,2024,4,1210.0,1430.0
+Alberta,Red Deer,2025,1,1180.0,1410.0
+Saskatchewan,Regina,2020,1,930.0,1120.0
+Saskatchewan,Regina,2020,2,920.0,1100.0
+Saskatchewan,Regina,2020,3,930.0,1140.0
+Saskatchewan,Regina,2020,4,910.0,1110.0
+Saskatchewan,Regina,2021,1,930.0,1120.0
+Saskatchewan,Regina,2021,2,930.0,1150.0
+Saskatchewan,Regina,2021,3,930.0,1170.0
+Saskatchewan,Regina,2021,4,920.0,1100.0
+Saskatchewan,Regina,2022,1,940.0,1130.0
+Saskatchewan,Regina,2022,2,950.0,1170.0
+Saskatchewan,Regina,2022,3,970.0,1200.0
+Saskatchewan,Regina,2022,4,1000.0,1170.0
+Saskatchewan,Regina,2023,1,1060.0,1250.0
+Saskatchewan,Regina,2023,2,1080.0,1380.0
+Saskatchewan,Regina,2023,3,1080.0,1360.0
+Saskatchewan,Regina,2023,4,1140.0,1340.0
+Saskatchewan,Regina,2024,1,1120.0,1370.0
+Saskatchewan,Regina,2024,2,1170.0,1410.0
+Saskatchewan,Regina,2024,3,1220.0,1440.0
+Saskatchewan,Regina,2024,4,1230.0,1440.0
+Saskatchewan,Regina,2025,1,1230.0,1410.0
+New Brunswick,Saint John,2020,1,820.0,940.0
+New Brunswick,Saint John,2020,2,830.0,1000.0
+New Brunswick,Saint John,2020,3,830.0,1050.0
+New Brunswick,Saint John,2020,4,820.0,1000.0
+New Brunswick,Saint John,2021,1,860.0,1120.0
+New Brunswick,Saint John,2021,2,860.0,1110.0
+New Brunswick,Saint John,2021,3,870.0,1110.0
+New Brunswick,Saint John,2021,4,870.0,1120.0
+New Brunswick,Saint John,2022,1,910.0,1160.0
+New Brunswick,Saint John,2022,2,960.0,1110.0
+New Brunswick,Saint John,2022,3,1010.0,1230.0
+New Brunswick,Saint John,2022,4,1010.0,1260.0
+New Brunswick,Saint John,2023,1,1060.0,1300.0
+New Brunswick,Saint John,2023,2,1090.0,1320.0
+New Brunswick,Saint John,2023,3,1160.0,1400.0
+New Brunswick,Saint John,2023,4,1170.0,1450.0
+New Brunswick,Saint John,2024,1,1090.0,1520.0
+New Brunswick,Saint John,2024,2,1110.0,1430.0
+New Brunswick,Saint John,2024,3,1190.0,1590.0
+New Brunswick,Saint John,2024,4,1230.0,1550.0
+New Brunswick,Saint John,2025,1,1180.0,1520.0
+Saskatchewan,Saskatoon,2020,1,950.0,1170.0
+Saskatchewan,Saskatoon,2020,2,970.0,1160.0
+Saskatchewan,Saskatoon,2020,3,950.0,1190.0
+Saskatchewan,Saskatoon,2020,4,970.0,1180.0
+Saskatchewan,Saskatoon,2021,1,1010.0,1210.0
+Saskatchewan,Saskatoon,2021,2,990.0,1220.0
+Saskatchewan,Saskatoon,2021,3,990.0,1210.0
+Saskatchewan,Saskatoon,2021,4,990.0,1210.0
+Saskatchewan,Saskatoon,2022,1,1020.0,1210.0
+Saskatchewan,Saskatoon,2022,2,1000.0,1220.0
+Saskatchewan,Saskatoon,2022,3,1050.0,1310.0
+Saskatchewan,Saskatoon,2022,4,1070.0,1350.0
+Saskatchewan,Saskatoon,2023,1,1160.0,1350.0
+Saskatchewan,Saskatoon,2023,2,1150.0,1360.0
+Saskatchewan,Saskatoon,2023,3,1120.0,1360.0
+Saskatchewan,Saskatoon,2023,4,1150.0,1470.0
+Saskatchewan,Saskatoon,2024,1,1210.0,1490.0
+Saskatchewan,Saskatoon,2024,2,1230.0,1480.0
+Saskatchewan,Saskatoon,2024,3,1270.0,1510.0
+Saskatchewan,Saskatoon,2024,4,1280.0,1520.0
+Saskatchewan,Saskatoon,2025,1,1270.0,1490.0
+Quebec,Sherbrooke,2020,1,580.0,680.0
+Quebec,Sherbrooke,2020,2,590.0,700.0
+Quebec,Sherbrooke,2020,3,610.0,740.0
+Quebec,Sherbrooke,2020,4,680.0,810.0
+Quebec,Sherbrooke,2021,1,670.0,790.0
+Quebec,Sherbrooke,2021,2,730.0,880.0
+Quebec,Sherbrooke,2021,3,710.0,920.0
+Quebec,Sherbrooke,2021,4,800.0,890.0
+Quebec,Sherbrooke,2022,1,780.0,980.0
+Quebec,Sherbrooke,2022,2,830.0,1010.0
+Quebec,Sherbrooke,2022,3,800.0,1060.0
+Quebec,Sherbrooke,2022,4,890.0,1160.0
+Quebec,Sherbrooke,2023,1,880.0,1090.0
+Quebec,Sherbrooke,2023,2,960.0,1110.0
+Quebec,Sherbrooke,2023,3,900.0,1180.0
+Quebec,Sherbrooke,2023,4,960.0,1270.0
+Quebec,Sherbrooke,2024,1,1020.0,1230.0
+Quebec,Sherbrooke,2024,2,980.0,1240.0
+Quebec,Sherbrooke,2024,3,1000.0,1190.0
+Quebec,Sherbrooke,2024,4,1000.0,1230.0
+Quebec,Sherbrooke,2025,1,1030.0,1250.0
+Ontario,St. Catharines - Niagara,2020,1,1130.0,1390.0
+Ontario,St. Catharines - Niagara,2020,2,1160.0,1390.0
+Ontario,St. Catharines - Niagara,2020,3,1180.0,1420.0
+Ontario,St. Catharines - Niagara,2020,4,1190.0,1430.0
+Ontario,St. Catharines - Niagara,2021,1,1230.0,1470.0
+Ontario,St. Catharines - Niagara,2021,2,1290.0,1580.0
+Ontario,St. Catharines - Niagara,2021,3,1340.0,1580.0
+Ontario,St. Catharines - Niagara,2021,4,1400.0,1640.0
+Ontario,St. Catharines - Niagara,2022,1,1440.0,1670.0
+Ontario,St. Catharines - Niagara,2022,2,1440.0,1700.0
+Ontario,St. Catharines - Niagara,2022,3,1490.0,1790.0
+Ontario,St. Catharines - Niagara,2022,4,1460.0,1740.0
+Ontario,St. Catharines - Niagara,2023,1,1490.0,1770.0
+Ontario,St. Catharines - Niagara,2023,2,1520.0,1760.0
+Ontario,St. Catharines - Niagara,2023,3,1520.0,1790.0
+Ontario,St. Catharines - Niagara,2023,4,1560.0,1850.0
+Ontario,St. Catharines - Niagara,2024,1,1580.0,1850.0
+Ontario,St. Catharines - Niagara,2024,2,1580.0,1840.0
+Ontario,St. Catharines - Niagara,2024,3,1580.0,1870.0
+Ontario,St. Catharines - Niagara,2024,4,1610.0,1870.0
+Ontario,St. Catharines - Niagara,2025,1,1580.0,1890.0
+Newfoundland and Labrador,St. John's,2020,1,810.0,960.0
+Newfoundland and Labrador,St. John's,2020,2,860.0,960.0
+Newfoundland and Labrador,St. John's,2020,3,860.0,970.0
+Newfoundland and Labrador,St. John's,2020,4,850.0,960.0
+Newfoundland and Labrador,St. John's,2021,1,870.0,970.0
+Newfoundland and Labrador,St. John's,2021,2,880.0,1020.0
+Newfoundland and Labrador,St. John's,2021,3,910.0,1020.0
+Newfoundland and Labrador,St. John's,2021,4,950.0,1060.0
+Newfoundland and Labrador,St. John's,2022,1,940.0,1100.0
+Newfoundland and Labrador,St. John's,2022,2,940.0,1090.0
+Newfoundland and Labrador,St. John's,2022,3,1000.0,1160.0
+Newfoundland and Labrador,St. John's,2022,4,1040.0,1210.0
+Newfoundland and Labrador,St. John's,2023,1,1040.0,1270.0
+Newfoundland and Labrador,St. John's,2023,2,1020.0,1180.0
+Newfoundland and Labrador,St. John's,2023,3,1070.0,1370.0
+Newfoundland and Labrador,St. John's,2023,4,1120.0,1590.0
+Newfoundland and Labrador,St. John's,2024,1,1150.0,1600.0
+Newfoundland and Labrador,St. John's,2024,2,1050.0,1580.0
+Newfoundland and Labrador,St. John's,2024,3,1200.0,1690.0
+Newfoundland and Labrador,St. John's,2024,4,1230.0,1740.0
+Newfoundland and Labrador,St. John's,2025,1,1210.0,1630.0
+Ontario,Thunder Bay,2020,1,930.0,1310.0
+Ontario,Thunder Bay,2020,2,960.0,1350.0
+Ontario,Thunder Bay,2020,3,930.0,1250.0
+Ontario,Thunder Bay,2020,4,960.0,1240.0
+Ontario,Thunder Bay,2021,1,950.0,1420.0
+Ontario,Thunder Bay,2021,2,1070.0,1370.0
+Ontario,Thunder Bay,2021,3,980.0,1410.0
+Ontario,Thunder Bay,2021,4,1000.0,1460.0
+Ontario,Thunder Bay,2022,1,1090.0,1460.0
+Ontario,Thunder Bay,2022,2,1100.0,1530.0
+Ontario,Thunder Bay,2022,3,1110.0,1460.0
+Ontario,Thunder Bay,2022,4,1190.0,1490.0
+Ontario,Thunder Bay,2023,1,1130.0,1580.0
+Ontario,Thunder Bay,2023,2,1180.0,1590.0
+Ontario,Thunder Bay,2023,3,1300.0,1660.0
+Ontario,Thunder Bay,2023,4,1190.0,1650.0
+Ontario,Thunder Bay,2024,1,1320.0,1740.0
+Ontario,Thunder Bay,2024,2,1320.0,1710.0
+Ontario,Thunder Bay,2024,3,1380.0,2000.0
+Ontario,Thunder Bay,2024,4,1320.0,1810.0
+Ontario,Thunder Bay,2025,1,1410.0,1800.0
+Ontario,Toronto,2020,1,2000.0,2490.0
+Ontario,Toronto,2020,2,1930.0,2370.0
+Ontario,Toronto,2020,3,1860.0,2310.0
+Ontario,Toronto,2020,4,1750.0,2190.0
+Ontario,Toronto,2021,1,1720.0,2140.0
+Ontario,Toronto,2021,2,1740.0,2190.0
+Ontario,Toronto,2021,3,1780.0,2210.0
+Ontario,Toronto,2021,4,1830.0,2280.0
+Ontario,Toronto,2022,1,1870.0,2320.0
+Ontario,Toronto,2022,2,1950.0,2460.0
+Ontario,Toronto,2022,3,2100.0,2640.0
+Ontario,Toronto,2022,4,2180.0,2710.0
+Ontario,Toronto,2023,1,2210.0,2730.0
+Ontario,Toronto,2023,2,2280.0,2880.0
+Ontario,Toronto,2023,3,2320.0,2920.0
+Ontario,Toronto,2023,4,2340.0,2920.0
+Ontario,Toronto,2024,1,2290.0,2850.0
+Ontario,Toronto,2024,2,2280.0,2830.0
+Ontario,Toronto,2024,3,2270.0,2830.0
+Ontario,Toronto,2024,4,2210.0,2740.0
+Ontario,Toronto,2025,1,2170.0,2690.0
+Quebec,Trois-Rivières,2020,1,510.0,
+Quebec,Trois-Rivières,2020,2,500.0,
+Quebec,Trois-Rivières,2020,3,520.0,
+Quebec,Trois-Rivières,2020,4,510.0,
+Quebec,Trois-Rivières,2021,1,540.0,
+Quebec,Trois-Rivières,2021,2,540.0,
+Quebec,Trois-Rivières,2021,3,560.0,
+Quebec,Trois-Rivières,2021,4,600.0,
+Quebec,Trois-Rivières,2022,1,640.0,
+Quebec,Trois-Rivières,2022,2,610.0,
+Quebec,Trois-Rivières,2022,3,670.0,
+Quebec,Trois-Rivières,2022,4,710.0,
+Quebec,Trois-Rivières,2023,1,710.0,
+Quebec,Trois-Rivières,2023,2,770.0,
+Quebec,Trois-Rivières,2023,3,820.0,
+Quebec,Trois-Rivières,2023,4,770.0,
+Quebec,Trois-Rivières,2024,1,830.0,
+Quebec,Trois-Rivières,2024,2,860.0,
+Quebec,Trois-Rivières,2024,3,910.0,
+Quebec,Trois-Rivières,2024,4,930.0,
+Quebec,Trois-Rivières,2025,1,910.0,
+British Columbia,Vancouver,2020,1,1910.0,2530.0
+British Columbia,Vancouver,2020,2,1870.0,2480.0
+British Columbia,Vancouver,2020,3,1850.0,2430.0
+British Columbia,Vancouver,2020,4,1810.0,2380.0
+British Columbia,Vancouver,2021,1,1840.0,2410.0
+British Columbia,Vancouver,2021,2,1860.0,2520.0
+British Columbia,Vancouver,2021,3,1910.0,2610.0
+British Columbia,Vancouver,2021,4,1970.0,2740.0
+British Columbia,Vancouver,2022,1,2060.0,2830.0
+British Columbia,Vancouver,2022,2,2190.0,3020.0
+British Columbia,Vancouver,2022,3,2400.0,3350.0
+British Columbia,Vancouver,2022,4,2450.0,3400.0
+British Columbia,Vancouver,2023,1,2440.0,3300.0
+British Columbia,Vancouver,2023,2,2520.0,3470.0
+British Columbia,Vancouver,2023,3,2640.0,3580.0
+British Columbia,Vancouver,2023,4,2560.0,3510.0
+British Columbia,Vancouver,2024,1,2530.0,3440.0
+British Columbia,Vancouver,2024,2,2520.0,3360.0
+British Columbia,Vancouver,2024,3,2510.0,3390.0
+British Columbia,Vancouver,2024,4,2450.0,3250.0
+British Columbia,Vancouver,2025,1,2380.0,3170.0
+British Columbia,Victoria,2020,1,1580.0,1960.0
+British Columbia,Victoria,2020,2,1560.0,1920.0
+British Columbia,Victoria,2020,3,1570.0,1970.0
+British Columbia,Victoria,2020,4,1600.0,2000.0
+British Columbia,Victoria,2021,1,1610.0,2050.0
+British Columbia,Victoria,2021,2,1640.0,2080.0
+British Columbia,Victoria,2021,3,1710.0,2210.0
+British Columbia,Victoria,2021,4,1760.0,2410.0
+British Columbia,Victoria,2022,1,1830.0,2450.0
+British Columbia,Victoria,2022,2,2010.0,2630.0
+British Columbia,Victoria,2022,3,2030.0,2640.0
+British Columbia,Victoria,2022,4,2090.0,2660.0
+British Columbia,Victoria,2023,1,2010.0,2570.0
+British Columbia,Victoria,2023,2,2060.0,2600.0
+British Columbia,Victoria,2023,3,2090.0,2750.0
+British Columbia,Victoria,2023,4,2120.0,2760.0
+British Columbia,Victoria,2024,1,2090.0,2690.0
+British Columbia,Victoria,2024,2,2090.0,2760.0
+British Columbia,Victoria,2024,3,2130.0,2740.0
+British Columbia,Victoria,2024,4,2090.0,2730.0
+British Columbia,Victoria,2025,1,2090.0,2680.0
+Ontario,Windsor,2020,1,1030.0,1370.0
+Ontario,Windsor,2020,2,1100.0,1360.0
+Ontario,Windsor,2020,3,1110.0,1420.0
+Ontario,Windsor,2020,4,1120.0,1440.0
+Ontario,Windsor,2021,1,1160.0,1440.0
+Ontario,Windsor,2021,2,1170.0,1500.0
+Ontario,Windsor,2021,3,1230.0,1460.0
+Ontario,Windsor,2021,4,1220.0,1500.0
+Ontario,Windsor,2022,1,1230.0,1450.0
+Ontario,Windsor,2022,2,1290.0,1570.0
+Ontario,Windsor,2022,3,1320.0,1640.0
+Ontario,Windsor,2022,4,1320.0,1670.0
+Ontario,Windsor,2023,1,1420.0,1720.0
+Ontario,Windsor,2023,2,1410.0,1680.0
+Ontario,Windsor,2023,3,1400.0,1680.0
+Ontario,Windsor,2023,4,1470.0,1840.0
+Ontario,Windsor,2024,1,1490.0,1880.0
+Ontario,Windsor,2024,2,1510.0,1840.0
+Ontario,Windsor,2024,3,1520.0,1900.0
+Ontario,Windsor,2024,4,1520.0,1870.0
+Ontario,Windsor,2025,1,1490.0,1880.0
+Manitoba,Winnipeg,2020,1,1000.0,1260.0
+Manitoba,Winnipeg,2020,2,1030.0,1270.0
+Manitoba,Winnipeg,2020,3,1030.0,1300.0
+Manitoba,Winnipeg,2020,4,1020.0,1290.0
+Manitoba,Winnipeg,2021,1,1060.0,1320.0
+Manitoba,Winnipeg,2021,2,1060.0,1360.0
+Manitoba,Winnipeg,2021,3,1050.0,1340.0
+Manitoba,Winnipeg,2021,4,1040.0,1320.0
+Manitoba,Winnipeg,2022,1,1050.0,1320.0
+Manitoba,Winnipeg,2022,2,1090.0,1340.0
+Manitoba,Winnipeg,2022,3,1080.0,1370.0
+Manitoba,Winnipeg,2022,4,1090.0,1390.0
+Manitoba,Winnipeg,2023,1,1140.0,1430.0
+Manitoba,Winnipeg,2023,2,1140.0,1440.0
+Manitoba,Winnipeg,2023,3,1130.0,1430.0
+Manitoba,Winnipeg,2023,4,1170.0,1490.0
+Manitoba,Winnipeg,2024,1,1210.0,1540.0
+Manitoba,Winnipeg,2024,2,1220.0,1560.0
+Manitoba,Winnipeg,2024,3,1220.0,1570.0
+Manitoba,Winnipeg,2024,4,1220.0,1580.0
+Manitoba,Winnipeg,2025,1,1270.0,1600.0
