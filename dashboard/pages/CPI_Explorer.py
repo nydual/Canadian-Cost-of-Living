@@ -2,13 +2,47 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+COLOR_SEQ = ["#00c698", "#4c78a8", "#f58518", "#e45756", "#54a24b"]
+
 @st.cache_data
 def load_data():
-     return pd.read_csv("../data/Final_Cost_of_living_data.csv")
+    
+    return pd.read_csv("../data/Final_Cost_of_living_data.csv")
+
+def inject_css():
+    st.markdown(
+        """
+        <style>
+        .page-title {
+            font-size: 1.7rem;
+            font-weight: 700;
+            margin-bottom: 0.2rem;
+        }
+        .page-subtitle {
+            font-size: 0.95rem;
+            opacity: 0.85;
+            margin-bottom: 0.8rem;
+        }
+        .section-title {
+            font-size: 1.05rem;
+            font-weight: 600;
+            margin-top: 1.0rem;
+            margin-bottom: 0.35rem;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+inject_css()
 
 df = load_data()
 
-st.title("📊 CPI Explorer")
+st.markdown('<div class="page-title">📊 CPI Explorer</div>', unsafe_allow_html=True)
+st.markdown(
+    '<div class="page-subtitle">Inspect CPI components like Shelter, Food, Energy, and Transportation by province.</div>',
+    unsafe_allow_html=True,
+)
 
 province = st.sidebar.selectbox("Province", sorted(df["Province"].dropna().unique()))
 
@@ -28,17 +62,24 @@ component = st.sidebar.selectbox(
 )
 
 min_year, max_year = int(df["Year"].min()), int(df["Year"].max())
-year_range = st.sidebar.slider("Year range", min_year, max_year, (min_year, max_year), step=1)
+year_range = st.sidebar.slider(
+    "Year range", min_year, max_year, (min_year, max_year), step=1
+)
 
 df_sel = df[
-    (df["Province"] == province) &
-    (df["Year"] >= year_range[0]) &
-    (df["Year"] <= year_range[1])
+    (df["Province"] == province)
+    & (df["Year"] >= year_range[0])
+    & (df["Year"] <= year_range[1])
 ]
 
 if df_sel.empty:
     st.warning("No data for that selection.")
 else:
+    st.markdown(
+        f'<div class="section-title">{component} CPI – {province}</div>',
+        unsafe_allow_html=True,
+    )
+
     trend = (
         df_sel.groupby("Year", as_index=False)[component]
         .mean()
@@ -50,7 +91,18 @@ else:
         x="Year",
         y=component,
         markers=True,
-        labels={"Year": "Year", component: "CPI Index"},
-        title=f"{component} CPI – {province}"
+        template="plotly_dark",
+    )
+    fig.update_traces(
+        line=dict(width=3, shape="spline", color=COLOR_SEQ[2]),
+        marker=dict(size=7),
+        fill="tozeroy",
+        fillcolor="rgba(245,133,24,0.12)",
+    )
+    fig.update_layout(
+        xaxis_title="Year",
+        yaxis_title="CPI Index",
+        margin=dict(t=20),
+        showlegend=False,
     )
     st.plotly_chart(fig, use_container_width=True)
