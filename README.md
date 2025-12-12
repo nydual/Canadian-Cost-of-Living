@@ -110,7 +110,7 @@ Statistics Canada CPI tables
 
 ## 🧹 Data Cleaning & Preparation
 
-**Notebook:** `01_Data_Cleaning.ipynb`
+**Notebook:** 
 
 **Key steps:**
 
@@ -122,7 +122,7 @@ Statistics Canada CPI tables
 - Merged CPI and rent data into a single dataset
 - Handled missing values carefully (no aggressive imputation)
 
-**Final output:** `data/processed/Final_Cost_of_Living.csv`
+**Final output:** `data/Final_cost_of_living_data.csv`
 
 ---
 
@@ -157,7 +157,7 @@ Random Forest Regression used to predict rent from CPI components
 **Feature importance evaluated using:**
 - Random Forest impurity-based importance
 - Permutation importance
-- SHAP values (model explainability)
+
 
 **Key Insight:**
 
