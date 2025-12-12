@@ -136,7 +136,7 @@ st.markdown(
           <span>Canada Cost of Living Dashboard</span>
       </div>
       <div class="app-subtitle">
-          Explore how rent prices and consumer price inflation (CPI) are evolving across Canadian cities and provinces.
+          Explore how rent prices and consumer price index (CPI) are evolving across Canadian cities and provinces.
           Use the pages in the sidebar to dig into trends, compare regions, and generate quick narrative insights.
       </div>
     </div>
