@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from pathlib import Path
 
 # ---------- PAGE CONFIG ----------
 st.set_page_config(
@@ -116,18 +117,46 @@ def inject_css():
         unsafe_allow_html=True,
     )
 
-
 inject_css()
 
-# ---------- LOAD DATA ----------
+# ---------- LOAD DATA (DEPLOYMENT-SAFE) ----------
 @st.cache_data
-def load_data():
-    return pd.read_csv("../data/Final_Cost_of_living_data.csv")
+def load_data() -> pd.DataFrame:
+    """
+    Loads the CSV robustly whether Streamlit is run from repo root (cloud)
+    or from inside the dashboard folder (local).
+    """
+    app_dir = Path(__file__).resolve().parent          # .../dashboard
+    repo_root = app_dir.parent                         # .../Canada_Cost_of_Living (assuming dashboard/ is directly under root)
+    csv_path = repo_root / "data" / "Final_Cost_of_living_data.csv"
 
-df = load_data()
+    if not csv_path.exists():
+        # Helpful debug output if the file isn't where we expect
+        found_csvs = [str(p) for p in repo_root.rglob("*.csv")]
+        raise FileNotFoundError(
+            f"Could not find CSV at: {csv_path}\n"
+            f"Repo root assumed as: {repo_root}\n"
+            f"CSVs found under repo root: {found_csvs[:50]}"
+        )
+
+    df_local = pd.read_csv(csv_path)
+
+    # Optional: basic sanity checks (won't crash unless missing)
+    expected_cols = {"Year", "City", "Province", "1_Bedroom_Rent", "2_Bedroom_Rent"}
+    missing = expected_cols - set(df_local.columns)
+    if missing:
+        st.warning(f"CSV loaded but missing expected columns: {sorted(missing)}")
+
+    return df_local
+
+try:
+    df = load_data()
+except Exception as e:
+    st.error("Data failed to load. Fix the CSV path or ensure the file is committed to your repo.")
+    st.exception(e)
+    st.stop()
 
 # ---------- LANDING PAGE LAYOUT ----------
-
 st.markdown(
     """
     <div class="app-header">
