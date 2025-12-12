@@ -2,12 +2,26 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
+from pathlib import Path
 
 COLOR_SEQ = ["#00c698", "#4c78a8", "#f58518", "#e45756", "#54a24b"]
 
 @st.cache_data
 def load_data():
-   return pd.read_csv("../data/Final_Cost_of_living_data.csv")
+    # This page is in: dashboard/pages/
+    # Repo root is: two levels up from this file
+    repo_root = Path(__file__).resolve().parents[2]
+    csv_path = repo_root / "data" / "Final_Cost_of_living_data.csv"
+
+    if not csv_path.exists():
+        found = [str(p) for p in repo_root.rglob("*.csv")]
+        raise FileNotFoundError(
+            f"CSV not found at: {csv_path}\n"
+            f"Repo root assumed as: {repo_root}\n"
+            f"CSVs found: {found[:50]}"
+        )
+
+    return pd.read_csv(csv_path)
 
 def inject_css():
     st.markdown(
@@ -35,7 +49,6 @@ def inject_css():
     )
 
 inject_css()
-
 df = load_data()
 
 st.markdown('<div class="page-title">🧠 AI-style Insights</div>', unsafe_allow_html=True)
@@ -80,24 +93,26 @@ else:
     )
 
     fig = px.line(
-    city_df,
-    x="Year",
-    y=unit,
-    markers=True,
-    template="plotly_dark",
+        city_df,
+        x="Year",
+        y=unit,
+        markers=True,
+        template="plotly_dark",
     )
+
     fig.update_traces(
-    line=dict(width=3, shape="spline", color=COLOR_SEQ[0]),  # teal instead of red
-    marker=dict(size=7),
-    fill="tozeroy",
-    fillcolor="rgba(0,198,152,0.15)",  # soft teal area under the curve
-  )
+        line=dict(width=3, shape="spline", color=COLOR_SEQ[0]),
+        marker=dict(size=7),
+        fill="tozeroy",
+        fillcolor="rgba(0,198,152,0.15)",
+    )
+
     fig.update_layout(
-    xaxis_title="Year",
-    yaxis_title="Average Monthly Rent ($)",
-    showlegend=False,
-    margin=dict(t=20),
-    title=f"{unit.replace('_', ' ')} – {city}",
-  )
+        xaxis_title="Year",
+        yaxis_title="Average Monthly Rent ($)",
+        showlegend=False,
+        margin=dict(t=20),
+        title=f"{unit.replace('_', ' ')} – {city}",
+    )
+
     st.plotly_chart(fig, use_container_width=True)
- 

@@ -1,10 +1,14 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("../data/Final_Cost_of_living_data.csv")
+    # This page lives in dashboard/pages/ -> repo root is 2 levels up
+    repo_root = Path(__file__).resolve().parents[2]
+    csv_path = repo_root / "data" / "Final_Cost_of_living_data.csv"
+    return pd.read_csv(csv_path)
 
 df = load_data()
 
@@ -50,24 +54,26 @@ if selected_city != "All":
         x="Year",
         y=unit_type,
         markers=True,
-        labels={"Year": "Year", unit_type: "Average Monthly Rent ($)"}
+        labels={"Year": "Year", unit_type: "Average Monthly Rent ($)"},
     )
     st.plotly_chart(fig_line, use_container_width=True)
 
 else:
     st.subheader(f"Rent Trend by Province ({unit_type.replace('_', ' ')})")
+
     trend = (
         df_rent.groupby(["Year", "Province"], as_index=False)[unit_type]
         .mean()
         .sort_values(["Year", "Province"])
     )
+
     fig_line = px.line(
         trend,
         x="Year",
         y=unit_type,
         color="Province",
         markers=True,
-        labels={"Year": "Year", unit_type: "Average Monthly Rent ($)"}
+        labels={"Year": "Year", unit_type: "Average Monthly Rent ($)"},
     )
     st.plotly_chart(fig_line, use_container_width=True)
 
