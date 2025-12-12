@@ -53,7 +53,7 @@ Data Collection → Cleaning → EDA → Feature Engineering → Modeling → Vi
 ## 📂 Project Structure
 
 ```
->>>>>>> 79d735f25c1ffb8371cc5c2bc9c2a46a8e5facde
+
 Canada_Cost_of_Living/
 │
 ├── data/
@@ -346,7 +346,7 @@ CPI components with smooth, consistent trends (e.g., Recreation, Alcohol & Tobac
 
 **Live Dashboard:**
 
-👉 [Add Streamlit link here after deployment]
+👉 [[Canada Cost of Living ](https://canadian-cost-of-living-7keu4rnmyi5vf59syljzxx.streamlit.app/AI_Insights)]
 
 **Dashboard Pages:**
 
