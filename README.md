@@ -23,6 +23,12 @@ This project analyzes cost of living trends in Canada by combining rental market
 
 Data Collection → Cleaning → EDA → Feature Engineering → Modeling → Visualization → Dashboard Deployment
 
+
+## Demo 
+
+https://github.com/user-attachments/assets/d412f99d-baf2-433e-b65e-529fe8868a1c
+
+
 ---
 
 ## 🎯 Key Questions
@@ -34,6 +40,9 @@ Data Collection → Cleaning → EDA → Feature Engineering → Modeling → Vi
 - Can we generate intuitive, non-technical insights for users?
 
 ---
+
+
+
 
 ## 🛠️ Tools & Technologies
 
@@ -347,6 +356,9 @@ CPI components with smooth, consistent trends (e.g., Recreation, Alcohol & Tobac
 **Live Dashboard:**
 
 👉 [[Canada Cost of Living ](https://canadian-cost-of-living-7keu4rnmyi5vf59syljzxx.streamlit.app/AI_Insights)]
+
+
+
 
 **Dashboard Pages:**
 
